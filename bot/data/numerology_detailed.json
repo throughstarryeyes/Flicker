@@ -1,0 +1,121 @@
+{
+  "numbers": {
+    "0": {
+      "is master": false,
+      "keywords": "Potential, ",
+      "strengths": "Natural leader, innovative, determined, confident, pioneering spirit, self-reliant, courageous",
+      "challenges": "Arrogant, dominating, stubborn, self-centered, emotionally distant, impatient",
+      "life_theme": "You're here to lead and forge new paths. Trust your vision and stand confidently in your independence.",
+      "career": "Entrepreneur, CEO, innovator, pioneer, independent consultant",
+      "love": "Needs a partner who respects independence. Can be too self-focused in relationships."
+    },
+    "1": {
+      "is master": false,
+      "keywords": "Leadership, Independence, Ambition, New Beginnings",
+      "strengths": "Natural leader, innovative, determined, confident, pioneering spirit, self-reliant, courageous",
+      "challenges": "Arrogant, dominating, stubborn, self-centered, emotionally distant, impatient",
+      "life_theme": "You're here to lead and forge new paths. Trust your vision and stand confidently in your independence.",
+      "career": "Entrepreneur, CEO, innovator, pioneer, independent consultant",
+      "love": "Needs a partner who respects independence. Can be too self-focused in relationships."
+    },
+    "2": {
+      "is master": false,
+      "keywords": "Harmony, Cooperation, Sensitivity, Diplomacy, Partnership",
+      "strengths": "Peacemaker, intuitive, considerate, gentle, supportive, excellent mediator, empathetic",
+      "challenges": "Overly sensitive, shy, indecisive, needy, people-pleasing, avoids conflict",
+      "life_theme": "You're here to bring harmony and balance. Your gift is in cooperation and diplomatic solutions.",
+      "career": "Counselor, diplomat, mediator, team player, therapist, partner roles",
+      "love": "Thrives in partnerships. Needs emotional connection and harmony in relationships."
+    },
+    "3": {
+      "is master": false,
+      "keywords": "Creativity, Self-Expression, Playfulness, Communication",
+      "strengths": "Artistic, charismatic, optimistic, social, imaginative, excellent communicator, joyful",
+      "challenges": "Scattered, superficial, lacks focus, needs constant validation, gossipy",
+      "life_theme": "You're here to express yourself creatively and bring joy. Your gift is in communication and artistry.",
+      "career": "Artist, writer, performer, speaker, entertainer, creative director",
+      "love": "Playful and expressive. Needs someone who appreciates creativity and fun."
+    },
+    "4": {
+      "is master": false,
+      "keywords": "Stability, Structure, Hard Work, Discipline",
+      "strengths": "Reliable, organized, practical, loyal, patient, master builder, excellent at manifesting",
+      "challenges": "Stubborn, rigid, resists change, workaholic, lacks spontaneity, overly serious",
+      "life_theme": "You're here to build solid foundations. Your gift is in creating lasting structures and systems.",
+      "career": "Builder, architect, accountant, manager, organizer, engineer",
+      "love": "Loyal and committed. Needs stability and someone who appreciates their reliability."
+    },
+    "5": {
+      "is master": false,
+      "keywords": "Freedom, Change, Adventure, Versatility",
+      "strengths": "Adaptable, curious, energetic, embraces change, dynamic, resourceful, adventurous",
+      "challenges": "Restless, impulsive, irresponsible, lacks commitment, scattered energy",
+      "life_theme": "You're here to experience freedom and embrace change. Your gift is in adaptability and adventure.",
+      "career": "Travel guide, salesperson, publicist, adventurer, entrepreneur, anything that offers variety",
+      "love": "Needs freedom and variety. Commitment-phobic unless partner gives space."
+    },
+    "6": {
+      "is master": false,
+      "keywords": "Love, Responsibility, Nurturing, Harmony, Service",
+      "strengths": "Compassionate, caring, protective, family-oriented, supportive, responsible, selfless",
+      "challenges": "Overly critical, self-sacrificing, martyr complex, controlling, codependent",
+      "life_theme": "You're here to nurture and serve. Your gift is in creating harmony and caring for others.",
+      "career": "Teacher, nurse, counselor, caregiver, social worker, home-based business",
+      "love": "Devoted and nurturing. May give too much and forget self-care."
+    },
+    "7": {
+      "is master": false,
+      "keywords": "Wisdom, Spirituality, Analysis, Introspection",
+      "strengths": "Deep thinker, intuitive, spiritual, philosophical, truth-seeking, analytical, wise",
+      "challenges": "Isolated, skeptical, overthinks, struggles with social connection, aloof",
+      "life_theme": "You're here to seek truth and wisdom. Your gift is in spiritual understanding and deep analysis.",
+      "career": "Researcher, analyst, spiritual teacher, scientist, philosopher, investigator",
+      "love": "Needs intellectual and spiritual connection. Can be emotionally distant."
+    },
+    "8": {
+      "is master": false,
+      "keywords": "Power, Abundance, Authority, Material Success",
+      "strengths": "Executive ability, ambitious, confident, goal-oriented, influential, manifesting power",
+      "challenges": "Materialistic, power-hungry, workaholic, abusive if unbalanced, controlling",
+      "life_theme": "You're here to master the material world. Your gift is in manifesting abundance and wielding power wisely.",
+      "career": "Executive, business owner, banker, politician, real estate, financial advisor",
+      "love": "Provides well but may prioritize career over relationships. Needs respect."
+    },
+    "9": {
+      "is master": false,
+      "keywords": "Completion, Humanitarianism, Wisdom, Compassion",
+      "strengths": "Universal love, selfless, empathetic, wise, idealistic, compassionate, visionary",
+      "challenges": "Easily offended, self-neglecting, scattered, impractical, doormat syndrome",
+      "life_theme": "You're here to serve humanity. Your gift is in compassionate service and universal wisdom.",
+      "career": "Humanitarian, nonprofit work, healer, artist, philanthropist, global work",
+      "love": "Loves deeply and universally. May struggle with boundaries or giving too much."
+    },
+    "11": {
+      "is master": true,
+      "keywords": "Intuition, Illumination, Spiritual Insight, Inspiration",
+      "strengths": "Heightened intuition, spiritual insight, visionary, inspirational leader, psychic abilities, channel",
+      "challenges": "Nervous energy, overthinking, self-doubt, struggles between logic and intuition, anxiety",
+      "life_theme": "Master Number. You're here to illuminate and inspire. Trust your intuition over your rational mind.",
+      "career": "Spiritual teacher, psychic, motivational speaker, inventor, visionary leader",
+      "love": "Needs spiritual connection. High sensitivity requires understanding partner."
+    },
+    "22": {
+      "is master": true,
+      "keywords": "Master Builder, Manifestation, Vision + Practicality",
+      "strengths": "Turns visions into reality, practical + visionary, exceptional leadership, manifests on a grand scale",
+      "challenges": "Extremes of self-confidence and insecurity, materialistic tendencies, immense pressure, burnout",
+      "life_theme": "Master Number. You're here to build something lasting that benefits humanity. Balance ambition with humility.",
+      "career": "Architect, global leader, master builder, large-scale projects, visionary entrepreneur",
+      "love": "Driven and focused. Partner must support big visions and ambitions."
+    },
+    "33": {
+      "is master": true,
+      "keywords": "Master Teacher, Unconditional Love, Healing, Service",
+      "strengths": "Unconditional love, healer, selfless service, spiritual wisdom, compassionate guide, teacher",
+      "challenges": "Martyrdom, burnout, overly idealistic, neglects self-care, overwhelming responsibility",
+      "life_theme": "Master Number. You're here to teach and heal through example. Set boundaries while serving others.",
+      "career": "Master teacher, spiritual healer, counselor, humanitarian leader, guide",
+      "love": "Gives endlessly. Must learn to receive and maintain healthy boundaries."
+    }
+  }
+}

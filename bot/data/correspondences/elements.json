@@ -1,0 +1,215 @@
+{
+  "salt": {
+    "description": "Purification, protection, grounding, and preservation of intent. Creates boundaries and wards, cleanses tools, absorbs negativity.",
+    "element": "Earth",
+    "planet": "Saturn",
+    "intents": {
+      "protection": 10,
+      "baneful": 5,
+      "healing": 3
+    },
+    "varieties": ["sea salt", "himalayan pink salt", "black salt"],
+    "pairing_crystals": ["obsidian", "onyx", "black tourmaline"],
+    "synonyms": ["sea salt", "pink salt", "black salt", "himalayan salt"]
+  },
+  "sugar": {
+    "description": "Sweetening, attraction, kindness, and charm. Used in sweetening jars to draw affection and soften relationships.",
+    "element": "Air",
+    "planet": "Venus",
+    "intents": {
+      "love": 10,
+      "luck": 5,
+      "prosperity": 3
+    },
+    "varieties": ["brown sugar", "white sugar", "honey"],
+    "pairing_crystals": ["rose quartz", "garnet", "citrine"],
+    "synonyms": ["honey", "brown sugar", "white sugar", "sweetener"]
+  },
+  "water": {
+    "description": "Emotion, intuition, cleansing, and flow. Absorbs emotional energy, releases blockages, used for scrying and consecration.",
+    "element": "Water",
+    "planet": "Moon",
+    "intents": {
+      "healing": 10,
+      "love": 5,
+      "protection": 3
+    },
+    "varieties": ["rain water", "ocean water", "river water", "storm water", "moon water", "snow water"],
+    "pairing_crystals": ["moonstone", "selenite", "aquamarine"],
+    "synonyms": ["rain water", "ocean water", "river water", "storm water", "moon water", "blessed water"]
+  },
+  "ash": {
+    "description": "Transformation, endings, and rebirth. Represents closure and release, seals intentions, symbol of sacrifice and memory.",
+    "element": "Fire",
+    "planet": "Mars",
+    "intents": {
+      "baneful": 10,
+      "protection": 8,
+      "healing": 2
+    },
+    "varieties": ["wood ash", "incense ash", "herb ash"],
+    "pairing_crystals": ["obsidian", "hematite", "smoky quartz"],
+    "synonyms": ["wood ash", "incense ash", "ashes"]
+  },
+  "earth": {
+    "description": "Stability, roots, embodiment, and legacy. Grounding and manifestation, connects intentions to the physical plane.",
+    "element": "Earth",
+    "planet": "Saturn",
+    "intents": {
+      "prosperity": 10,
+      "protection": 8,
+      "healing": 5
+    },
+    "varieties": ["home dirt", "graveyard dirt", "church dirt", "crossroads dirt"],
+    "pairing_crystals": ["jasper", "moss agate", "pyrite"],
+    "synonyms": ["dirt", "soil", "grave dirt", "graveyard dirt", "crossroads dirt"]
+  },
+  "smoke": {
+    "description": "Thought, communication, inspiration, and messages. Carries intentions upward, invokes clarity and divine connection.",
+    "element": "Air",
+    "planet": "Mercury",
+    "intents": {
+      "healing": 7,
+      "protection": 8,
+      "luck": 5
+    },
+    "varieties": ["frankincense smoke", "sage smoke", "mugwort smoke", "lavender smoke", "cedar smoke"],
+    "pairing_crystals": ["fluorite", "lapis lazuli", "amethyst"],
+    "synonyms": ["incense", "incense smoke", "frankincense", "sage smoke"]
+  },
+  "fire": {
+    "description": "Willpower, destruction, transformation, and passion. Drives manifestation through direct focus, associated with courage and creation.",
+    "element": "Fire",
+    "planet": "Sun",
+    "intents": {
+      "love": 8,
+      "baneful": 9,
+      "luck": 6,
+      "prosperity": 5
+    },
+    "varieties": ["candle flame", "bonfire", "sacred flame"],
+    "pairing_crystals": ["carnelian", "garnet", "sunstone"],
+    "synonyms": ["flame", "candle", "candle flame"]
+  },
+  "spirit": {
+    "description": "Connection between seen and unseen, divine essence, and magic itself. Used in meditation, trance, and energy channeling.",
+    "element": "Ether",
+    "planet": "Uranus",
+    "intents": {
+      "healing": 10,
+      "love": 7,
+      "protection": 7,
+      "luck": 8
+    },
+    "varieties": ["breath", "intention", "consciousness"],
+    "pairing_crystals": ["clear quartz", "amethyst", "herkimer diamond"],
+    "synonyms": ["breath", "ether", "essence", "consciousness"]
+  },
+  "glass": {
+    "description": "Reflection, transparency, fragility, and seeing truth. Mirrors reality, used for scrying and protection (broken glass wards).",
+    "element": "Water",
+    "planet": "Moon",
+    "intents": {
+      "protection": 9,
+      "baneful": 7,
+      "healing": 3
+    },
+    "varieties": ["mirror glass", "broken glass", "sea glass", "stained glass"],
+    "pairing_crystals": ["clear quartz", "moonstone", "labradorite"],
+    "synonyms": ["mirror", "broken glass", "sea glass", "glass shards"]
+  },
+  "nails": {
+    "description": "Binding, fixation, protection, and strength. Iron nails ward off spirits, bind intentions, and create powerful barriers.",
+    "element": "Fire",
+    "planet": "Mars",
+    "intents": {
+      "protection": 10,
+      "baneful": 9,
+      "prosperity": 4
+    },
+    "varieties": ["iron nails", "copper nails", "coffin nails", "rusty nails"],
+    "pairing_crystals": ["hematite", "black tourmaline", "pyrite"],
+    "synonyms": ["iron nails", "coffin nails", "railroad spikes", "rusty nails"]
+  },
+  "lemon": {
+    "description": "Cleansing, purification, clarity, and removing negativity. Sharp citrus energy cuts through obstacles and sours enemies.",
+    "element": "Water",
+    "planet": "Moon",
+    "intents": {
+      "healing": 8,
+      "protection": 7,
+      "baneful": 6
+    },
+    "varieties": ["fresh lemon", "lemon peel", "lemon juice", "dried lemon"],
+    "pairing_crystals": ["citrine", "clear quartz", "yellow calcite"],
+    "synonyms": ["lemon peel", "lemon juice", "citrus", "fresh lemon"]
+  },
+  "twine": {
+    "description": "Binding, connection, weaving fate, and knot magic. String and cord work binds intentions, creates bonds, or ties situations together.",
+    "element": "Air",
+    "planet": "Mercury",
+    "intents": {
+      "love": 7,
+      "protection": 6,
+      "baneful": 5,
+      "prosperity": 5
+    },
+    "varieties": ["red thread", "black cord", "natural twine", "colored string"],
+    "pairing_crystals": ["garnet", "black tourmaline", "aventurine"],
+    "synonyms": ["string", "cord", "thread", "rope", "red thread"]
+  },
+  "paper": {
+    "description": "Words, intentions, petitions, and written magic. Holds spells, burns to release, folds to conceal, writes to manifest.",
+    "element": "Air",
+    "planet": "Mercury",
+    "intents": {
+      "love": 6,
+      "prosperity": 7,
+      "baneful": 5,
+      "luck": 7
+    },
+    "varieties": ["parchment", "petition paper", "brown paper", "clean paper"],
+    "pairing_crystals": ["citrine", "pyrite", "clear quartz"],
+    "synonyms": ["parchment", "petition", "scroll", "brown paper bag"]
+  },
+  "wax": {
+    "description": "Sealing, preservation, binding, and solidifying intent. Candle wax seals spells, preserves magic, binds energy into physical form.",
+    "element": "Fire",
+    "planet": "Sun",
+    "intents": {
+      "love": 8,
+      "protection": 7,
+      "prosperity": 6
+    },
+    "varieties": ["beeswax", "candle wax", "sealing wax", "colored wax"],
+    "pairing_crystals": ["carnelian", "sunstone", "amber"],
+    "synonyms": ["beeswax", "candle wax", "sealing wax"]
+  },
+  "oil": {
+    "description": "Anointing, consecration, empowerment, and lubrication of energy. Carries herbal properties, blesses tools, opens pathways.",
+    "element": "Fire",
+    "planet": "Sun",
+    "intents": {
+      "love": 7,
+      "healing": 8,
+      "prosperity": 7,
+      "protection": 6
+    },
+    "varieties": ["olive oil", "essential oils", "anointing oil", "carrier oil"],
+    "pairing_crystals": ["amber", "citrine", "rose quartz"],
+    "synonyms": ["olive oil", "essential oil", "anointing oil", "carrier oil"]
+  },
+  "vinegar": {
+    "description": "Souring, banishing, breaking hexes, and dissolving bonds. Sharp acidic energy removes unwanted influences and reverses curses.",
+    "element": "Water",
+    "planet": "Saturn",
+    "intents": {
+      "baneful": 10,
+      "protection": 9,
+      "healing": 3
+    },
+    "varieties": ["white vinegar", "apple cider vinegar", "red wine vinegar", "black vinegar"],
+    "pairing_crystals": ["obsidian", "black tourmaline", "smoky quartz"],
+    "synonyms": ["white vinegar", "apple cider vinegar", "acv", "sour wine"]
+  }
+}

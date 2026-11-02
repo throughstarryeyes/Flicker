@@ -1,0 +1,17 @@
+{
+  "enabled": true,
+  "banned_words": [
+    "nigger",
+    "poopjeet",
+    "kike", 
+    "beaner",
+    "testbanword"
+  ],
+  "exempted_roles": [
+    "hypernova - admin",
+    "supernova - mod",
+    "staff"
+  ],
+  "warn_user": true,
+  "log_channel_id": null
+}

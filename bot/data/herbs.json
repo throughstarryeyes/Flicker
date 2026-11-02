@@ -1,0 +1,18 @@
+[
+  {"name": "Lavender", "element": "Air", "planet": "Mercury", "uses": "Peace, sleep, purification, love", "properties": "Calming, healing, protective"},
+  {"name": "Rosemary", "element": "Fire", "planet": "Sun", "uses": "Protection, love, mental clarity, purification", "properties": "Energizing, memory-enhancing, cleansing"},
+  {"name": "Sage", "element": "Air", "planet": "Jupiter", "uses": "Cleansing, wisdom, protection, healing", "properties": "Purifying, sacred, banishing negativity"},
+  {"name": "Mugwort", "element": "Earth", "planet": "Moon", "uses": "Divination, dreams, astral projection, protection", "properties": "Psychic enhancement, dream work, visionary"},
+  {"name": "Chamomile", "element": "Water", "planet": "Sun", "uses": "Peace, prosperity, meditation, sleep", "properties": "Soothing, calming, attracting abundance"},
+  {"name": "Cinnamon", "element": "Fire", "planet": "Sun", "uses": "Success, prosperity, protection, love", "properties": "Energizing, luck-drawing, amplifying"},
+  {"name": "Basil", "element": "Fire", "planet": "Mars", "uses": "Love, wealth, protection, courage", "properties": "Attracting, protective, strengthening"},
+  {"name": "Bay Leaf", "element": "Fire", "planet": "Sun", "uses": "Wishes, protection, success, purification", "properties": "Manifestation, victory, psychic power"},
+  {"name": "Mint", "element": "Air", "planet": "Mercury", "uses": "Money, healing, travel, protection", "properties": "Refreshing, prosperity, communication"},
+  {"name": "Rose", "element": "Water", "planet": "Venus", "uses": "Love, beauty, divination, luck", "properties": "Loving, attracting, heart-opening"},
+  {"name": "Thyme", "element": "Water", "planet": "Venus", "uses": "Courage, purification, healing, sleep", "properties": "Cleansing, strengthening, peaceful"},
+  {"name": "Yarrow", "element": "Water", "planet": "Venus", "uses": "Courage, love, psychic powers, divination", "properties": "Protective, enhancing intuition, binding"},
+  {"name": "Cedar", "element": "Fire", "planet": "Sun", "uses": "Protection, purification, prosperity, healing", "properties": "Grounding, sacred, preserving"},
+  {"name": "Clove", "element": "Fire", "planet": "Jupiter", "uses": "Protection, love, money, purification", "properties": "Protective, attracting wealth, banishing"},
+  {"name": "Jasmine", "element": "Water", "planet": "Moon", "uses": "Love, money, prophetic dreams", "properties": "Attracting, spiritual, romantic"},
+  {"name": "Lemon Balm", "element": "Water", "planet": "Moon", "uses": "Love, success, healing, anti-anxiety", "properties": "Calming, uplifting, heart-healing"}
+]

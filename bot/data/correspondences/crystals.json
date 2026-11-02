@@ -1,0 +1,196 @@
+{
+  "crystals": {
+    "rose quartz": {
+      "type": "crystal",
+      "intents": {"love": 5, "healing": 3},
+      "planet": "Venus",
+      "element": "Water",
+      "description": "Unconditional love, compassion, self-love",
+      "synonyms": ["rosequartz", "rose crystal"]
+    },
+    "rhodonite": {
+      "type": "crystal",
+      "intents": {"love": 4, "healing": 3},
+      "planet": "Venus",
+      "element": "Water",
+      "description": "Reconciliation, forgiveness, emotional balance",
+      "synonyms": ["rhodonite crystal"]
+    },
+    "garnet": {
+      "type": "crystal",
+      "intents": {"love": 4, "baneful": 2},
+      "planet": "Venus/Mars",
+      "element": "Water/Fire",
+      "description": "Passion and vitality",
+      "synonyms": ["garnet crystal", "red garnet"]
+    },
+    "moonstone": {
+      "type": "crystal",
+      "intents": {"love": 3},
+      "planet": "Moon",
+      "element": "Water",
+      "description": "Intuition and emotional connection",
+      "synonyms": ["moon stone"]
+    },
+    "emerald": {
+      "type": "crystal",
+      "intents": {"love": 5, "prosperity": 3},
+      "planet": "Venus",
+      "element": "Water",
+      "description": "Long-term devotion and loyalty",
+      "synonyms": ["emerald crystal"]
+    },
+    "kunzite": {
+      "type": "crystal",
+      "intents": {"love": 4, "healing": 2},
+      "planet": "Venus",
+      "element": "Water",
+      "description": "Gentle romantic energy and healing from heartbreak",
+      "synonyms": ["kunzite crystal"]
+    },
+    "black tourmaline": {
+      "type": "crystal",
+      "intents": {"protection": 5},
+      "planet": "Mars/Saturn",
+      "element": "Fire",
+      "description": "Absorbs negativity, wards off psychic attack",
+      "synonyms": ["tourmaline", "black crystal"]
+    },
+    "obsidian": {
+      "type": "crystal",
+      "intents": {"protection": 5, "baneful": 4},
+      "planet": "Saturn",
+      "element": "Fire",
+      "description": "Truth-revealing mirror and banishment",
+      "synonyms": ["black obsidian", "obsidian crystal"]
+    },
+    "smoky quartz": {
+      "type": "crystal",
+      "intents": {"protection": 4, "healing": 2, "baneful": 2},
+      "planet": "Saturn",
+      "element": "Fire/Earth",
+      "description": "Grounding and energetic transmutation",
+      "synonyms": ["smoky crystal", "smokey quartz"]
+    },
+    "amethyst": {
+      "type": "crystal",
+      "intents": {"protection": 4, "healing": 4},
+      "planet": "Jupiter",
+      "element": "Air",
+      "description": "Psychic protection and spiritual cleansing",
+      "synonyms": ["amethyst crystal", "purple crystal"]
+    },
+    "labradorite": {
+      "type": "crystal",
+      "intents": {"protection": 5},
+      "planet": "Jupiter",
+      "element": "Fire",
+      "description": "Shields against energy drain and deception",
+      "synonyms": ["labradorite crystal"]
+    },
+    "hematite": {
+      "type": "crystal",
+      "intents": {"protection": 4, "baneful": 2},
+      "planet": "Mars/Saturn",
+      "element": "Fire/Earth",
+      "description": "Grounding shield, especially during conflict",
+      "synonyms": ["hematite crystal"]
+    },
+    "green aventurine": {
+      "type": "crystal",
+      "intents": {"healing": 4, "luck": 5, "prosperity": 4},
+      "planet": "Jupiter/Sun",
+      "element": "Water/Fire",
+      "description": "Physical and emotional healing, comfort, and luck",
+      "synonyms": ["aventurine", "green crystal", "green aventurine crystal"]
+    },
+    "malachite": {
+      "type": "crystal",
+      "intents": {"healing": 5, "prosperity": 3, "baneful": 2},
+      "planet": "Mercury",
+      "element": "Water",
+      "description": "Transformation through healing and detoxification",
+      "synonyms": ["malachite crystal", "green malachite"]
+    },
+    "bloodstone": {
+      "type": "crystal",
+      "intents": {"healing": 4, "protection": 2},
+      "planet": "Sun/Mars",
+      "element": "Water",
+      "description": "Energy renewal and circulation",
+      "synonyms": ["bloodstone crystal", "heliotrope"]
+    },
+    "lepidolite": {
+      "type": "crystal",
+      "intents": {"healing": 4},
+      "planet": "Mercury/Jupiter",
+      "element": "Water",
+      "description": "Emotional regulation and anxiety relief",
+      "synonyms": ["lepidolite crystal", "purple lepidolite"]
+    },
+    "moss agate": {
+      "type": "crystal",
+      "intents": {"healing": 3, "prosperity": 3},
+      "planet": "Sun",
+      "element": "Earth",
+      "description": "Immune support, connection to nature's healing cycles",
+      "synonyms": ["agate", "moss agate crystal"]
+    },
+    "jet": {
+      "type": "crystal",
+      "intents": {"baneful": 3, "protection": 4},
+      "planet": "Saturn",
+      "element": "Earth",
+      "description": "Absorbs malice, ancestral justice",
+      "synonyms": ["jet crystal", "jet stone"]
+    },
+    "onyx": {
+      "type": "crystal",
+      "intents": {"baneful": 3, "protection": 4},
+      "planet": "Saturn",
+      "element": "Earth",
+      "description": "Defense and power reclamation",
+      "synonyms": ["black onyx", "onyx crystal"]
+    },
+    "citrine": {
+      "type": "crystal",
+      "intents": {"luck": 5, "prosperity": 5},
+      "planet": "Jupiter/Sun",
+      "element": "Fire",
+      "description": "Sunny optimism, luck attraction, and wealth",
+      "synonyms": ["citrine crystal", "yellow crystal"]
+    },
+    "tiger's eye": {
+      "type": "crystal",
+      "intents": {"luck": 4, "protection": 2},
+      "planet": "Sun",
+      "element": "Fire",
+      "description": "Courage and confident risk-taking",
+      "synonyms": ["tigers eye", "tiger eye", "tiger's eye crystal"]
+    },
+    "pyrite": {
+      "type": "crystal",
+      "intents": {"luck": 4, "prosperity": 5},
+      "planet": "Sun/Mars",
+      "element": "Fire",
+      "description": "Sharp intuition, quick success, and business",
+      "synonyms": ["fool's gold", "pyrite crystal"]
+    },
+    "peridot": {
+      "type": "crystal",
+      "intents": {"luck": 3, "healing": 2},
+      "planet": "Sun/Venus",
+      "element": "Fire",
+      "description": "Joy, lightness, and luck in relationships",
+      "synonyms": ["peridot crystal", "green peridot"]
+    },
+    "jade": {
+      "type": "crystal",
+      "intents": {"luck": 4, "prosperity": 5},
+      "planet": "Jupiter/Venus",
+      "element": "Earth",
+      "description": "Harmony, longevity, and prosperity luck",
+      "synonyms": ["jade crystal", "green jade"]
+    }
+  }
+}

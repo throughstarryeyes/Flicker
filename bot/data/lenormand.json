@@ -1,0 +1,290 @@
+[
+    {
+      "id": 1,
+      "name": "Rider",
+      "number": "1",
+      "keywords": "news, arrival, message, momentum",
+      "meaning": "Incoming information or an approaching development; movement begins.",
+      "correspondences": "Playing card: 9♥"
+    },
+    {
+      "id": 2,
+      "name": "Clover",
+      "number": "2",
+      "keywords": "luck, chance, opportunity, lightness",
+      "meaning": "A brief opening of opportunity; something small but favorable appears.",
+      "correspondences": "Playing card: 6♦"
+    },
+    {
+      "id": 3,
+      "name": "Ship",
+      "number": "3",
+      "keywords": "distance, travel, expansion, longing",
+      "meaning": "Movement across space or time; growth through exploration or separation.",
+      "correspondences": "Playing card: 10♠"
+    },
+    {
+      "id": 4,
+      "name": "House",
+      "number": "4",
+      "keywords": "home, stability, family, foundation",
+      "meaning": "Established structures and familiar environments; what feels safe or rooted.",
+      "correspondences": "Playing card: K♥"
+    },
+    {
+      "id": 5,
+      "name": "Tree",
+      "number": "5",
+      "keywords": "health, growth, roots, longevity",
+      "meaning": "Slow development over time; what is sustained, embodied, or deeply rooted.",
+      "correspondences": "Playing card: 7♥"
+    },
+    {
+      "id": 6,
+      "name": "Clouds",
+      "number": "6",
+      "keywords": "confusion, uncertainty, obscurity, doubt",
+      "meaning": "Clarity is temporarily blocked; understanding is distorted or incomplete.",
+      "correspondences": "Playing card: K♣"
+    },
+    {
+      "id": 7,
+      "name": "Snake",
+      "number": "7",
+      "keywords": "complexity, temptation, entanglement, deception",
+      "meaning": "A situation with hidden layers; something indirect, complicated, or misleading.",
+      "correspondences": "Playing card: Q♣"
+    },
+    {
+      "id": 8,
+      "name": "Coffin",
+      "number": "8",
+      "keywords": "ending, closure, loss, transition",
+      "meaning": "A definitive ending; something concludes and cannot continue as it was.",
+      "correspondences": "Playing card: 9♦"
+    },
+    {
+      "id": 9,
+      "name": "Bouquet",
+      "number": "9",
+      "keywords": "gift, pleasure, appreciation, invitation",
+      "meaning": "A positive exchange or moment of grace; warmth, kindness, or enjoyment.",
+      "correspondences": "Playing card: Q♠"
+    },
+    {
+      "id": 10,
+      "name": "Scythe",
+      "number": "10",
+      "keywords": "sudden change, cut, decision, shock",
+      "meaning": "An abrupt shift or decisive break; what happens quickly and cleanly.",
+      "correspondences": "Playing card: J♦"
+    },
+    {
+      "id": 11,
+      "name": "Whip",
+      "number": "11",
+      "keywords": "conflict, repetition, tension, debate",
+      "meaning": "Ongoing friction or recurring issues; cycles of argument or pressure.",
+      "correspondences": "Playing card: J♣"
+    },
+    {
+      "id": 12,
+      "name": "Birds",
+      "number": "12",
+      "keywords": "conversation, anxiety, discussion, nervous energy",
+      "meaning": "Mental activity and dialogue; chatter, worry, or active communication.",
+      "correspondences": "Playing card: 7♦"
+    },
+    {
+      "id": 13,
+      "name": "Child",
+      "number": "13",
+      "keywords": "new beginning, innocence, simplicity, curiosity",
+      "meaning": "Something new, small, or undeveloped; early stages and fresh starts.",
+      "correspondences": "Playing card: J♠"
+    },
+    {
+      "id": 14,
+      "name": "Fox",
+      "number": "14",
+      "keywords": "strategy, caution, self-interest, cleverness",
+      "meaning": "A need for awareness and discernment; motives may be self-serving.",
+      "correspondences": "Playing card: 9♣"
+    },
+    {
+      "id": 15,
+      "name": "Bear",
+      "number": "15",
+      "keywords": "power, protection, authority, resources",
+      "meaning": "Strength or influence asserts itself; support, dominance, or control.",
+      "correspondences": "Playing card: 10♣"
+    },
+    {
+      "id": 16,
+      "name": "Stars",
+      "number": "16",
+      "keywords": "guidance, hope, clarity, direction",
+      "meaning": "A guiding signal; long-term vision or alignment becomes visible.",
+      "correspondences": "Playing card: 6♥"
+    },
+    {
+      "id": 17,
+      "name": "Stork",
+      "number": "17",
+      "keywords": "change, movement, transition, improvement",
+      "meaning": "Gradual change leading to something better; shifts that unfold naturally.",
+      "correspondences": "Playing card: Q♥"
+    },
+    {
+      "id": 18,
+      "name": "Dog",
+      "number": "18",
+      "keywords": "loyalty, friendship, trust, support",
+      "meaning": "Reliable connection; steady companionship or dependable support.",
+      "correspondences": "Playing card: 10♥"
+    },
+    {
+      "id": 19,
+      "name": "Tower",
+      "number": "19",
+      "keywords": "isolation, authority, boundaries, institutions",
+      "meaning": "Distance or separation; formal structures and defined limits.",
+      "correspondences": "Playing card: 6♠"
+    },
+    {
+      "id": 20,
+      "name": "Garden",
+      "number": "20",
+      "keywords": "community, public life, social space, visibility",
+      "meaning": "Shared environments and social settings; what is seen or known publicly.",
+      "correspondences": "Playing card: 8♠"
+    },
+    {
+      "id": 21,
+      "name": "Mountain",
+      "number": "21",
+      "keywords": "obstacle, delay, blockage, resistance",
+      "meaning": "A significant barrier; progress slows or requires effort to overcome.",
+      "correspondences": "Playing card: 8♣"
+    },
+    {
+      "id": 22,
+      "name": "Crossroads",
+      "number": "22",
+      "keywords": "choice, options, decision, divergence",
+      "meaning": "Multiple paths present themselves; a decision shapes what comes next.",
+      "correspondences": "Playing card: Q♦"
+    },
+    {
+      "id": 23,
+      "name": "Mice",
+      "number": "23",
+      "keywords": "loss, erosion, anxiety, depletion",
+      "meaning": "Something is being worn away; stress or gradual loss accumulates.",
+      "correspondences": "Playing card: 7♣"
+    },
+    {
+      "id": 24,
+      "name": "Heart",
+      "number": "24",
+      "keywords": "love, affection, emotional connection, warmth",
+      "meaning": "Emotional bonds and sincere feeling; matters of the heart are centered.",
+      "correspondences": "Playing card: J♥"
+    },
+    {
+      "id": 25,
+      "name": "Ring",
+      "number": "25",
+      "keywords": "commitment, contract, cycle, agreement",
+      "meaning": "A binding agreement or ongoing loop; commitment formalizes connection.",
+      "correspondences": "Playing card: A♣"
+    },
+    {
+      "id": 26,
+      "name": "Book",
+      "number": "26",
+      "keywords": "secrets, learning, hidden knowledge, mystery",
+      "meaning": "Information not yet revealed; what is concealed, studied, or private.",
+      "correspondences": "Playing card: 10♦"
+    },
+    {
+      "id": 27,
+      "name": "Letter",
+      "number": "27",
+      "keywords": "communication, document, message, record",
+      "meaning": "Written or recorded information; messages that can be referenced.",
+      "correspondences": "Playing card: 7♠"
+    },
+    {
+      "id": 28,
+      "name": "Man",
+      "number": "28",
+      "keywords": "masculine figure, partner, subject",
+      "meaning": "A significant masculine presence or the primary subject in question.",
+      "correspondences": "Playing card: A♥"
+    },
+    {
+      "id": 29,
+      "name": "Woman",
+      "number": "29",
+      "keywords": "feminine figure, partner, subject",
+      "meaning": "A significant feminine presence or the primary subject in question.",
+      "correspondences": "Playing card: A♠"
+    },
+    {
+      "id": 30,
+      "name": "Lily",
+      "number": "30",
+      "keywords": "peace, maturity, sexuality, ethics",
+      "meaning": "Calm authority and mature energy; balance shaped by experience.",
+      "correspondences": "Playing card: K♠"
+    },
+    {
+      "id": 31,
+      "name": "Sun",
+      "number": "31",
+      "keywords": "success, vitality, clarity, confidence",
+      "meaning": "Positive outcomes and visible progress; energy and assurance increase.",
+      "correspondences": "Playing card: A♦"
+    },
+    {
+      "id": 32,
+      "name": "Moon",
+      "number": "32",
+      "keywords": "emotion, reputation, cycles, reflection",
+      "meaning": "Emotional undercurrents and recognition; inner states affect perception.",
+      "correspondences": "Playing card: 8♥"
+    },
+    {
+      "id": 33,
+      "name": "Key",
+      "number": "33",
+      "keywords": "solution, certainty, access, answer",
+      "meaning": "Clarity arrives; a definitive answer or opening resolves uncertainty.",
+      "correspondences": "Playing card: 8♦"
+    },
+    {
+      "id": 34,
+      "name": "Fish",
+      "number": "34",
+      "keywords": "abundance, money, flow, resources",
+      "meaning": "Material movement and exchange; finances or resources circulate.",
+      "correspondences": "Playing card: K♦"
+    },
+    {
+      "id": 35,
+      "name": "Anchor",
+      "number": "35",
+      "keywords": "stability, persistence, security, work",
+      "meaning": "What holds steady over time; commitment through endurance.",
+      "correspondences": "Playing card: 9♠"
+    },
+    {
+      "id": 36,
+      "name": "Cross",
+      "number": "36",
+      "keywords": "burden, fate, weight, responsibility",
+      "meaning": "A heavy obligation or unavoidable challenge; something must be carried.",
+      "correspondences": "Playing card: 6♣"
+    }
+  ]  

@@ -1,0 +1,17 @@
+[
+  {"name": "Clear Quartz", "element": "All", "chakra": "Crown", "properties": "Amplification, clarity, energy", "uses": "Master healer, amplifies other crystals, clarity, energy"},
+  {"name": "Amethyst", "element": "Air/Water", "chakra": "Third Eye/Crown", "properties": "Intuition, protection, purification", "uses": "Spiritual awareness, sobriety, stress relief, intuition"},
+  {"name": "Rose Quartz", "element": "Water", "chakra": "Heart", "properties": "Love, compassion, healing", "uses": "Self-love, romance, emotional healing, forgiveness"},
+  {"name": "Black Tourmaline", "element": "Earth", "chakra": "Root", "properties": "Protection, grounding, purification", "uses": "EMF protection, energy cleansing, grounding, banishing negativity"},
+  {"name": "Citrine", "element": "Fire", "chakra": "Solar Plexus", "properties": "Abundance, manifestation, joy", "uses": "Prosperity, success, confidence, creativity"},
+  {"name": "Selenite", "element": "Air", "chakra": "Crown", "properties": "Clarity, cleansing, angelic connection", "uses": "Cleansing other crystals, meditation, spiritual connection"},
+  {"name": "Labradorite", "element": "Water/Air", "chakra": "Third Eye", "properties": "Transformation, intuition, protection", "uses": "Psychic abilities, magic, protection from negativity"},
+  {"name": "Carnelian", "element": "Fire", "chakra": "Sacral", "properties": "Courage, vitality, creativity", "uses": "Confidence, motivation, creativity, sexual energy"},
+  {"name": "Moonstone", "element": "Water", "chakra": "Crown/Third Eye", "properties": "Intuition, feminine energy, new beginnings", "uses": "Divination, feminine power, emotional balance, new starts"},
+  {"name": "Tiger's Eye", "element": "Fire/Earth", "chakra": "Solar Plexus", "properties": "Courage, confidence, protection", "uses": "Willpower, good luck, grounding, clarity"},
+  {"name": "Lapis Lazuli", "element": "Water", "chakra": "Third Eye/Throat", "properties": "Wisdom, truth, communication", "uses": "Inner vision, truthful communication, spiritual insight"},
+  {"name": "Malachite", "element": "Earth", "chakra": "Heart", "properties": "Transformation, protection, healing", "uses": "Emotional healing, protection from negative energies, transformation"},
+  {"name": "Obsidian", "element": "Fire/Earth", "chakra": "Root", "properties": "Protection, grounding, truth", "uses": "Psychic protection, releasing negativity, revealing truth"},
+  {"name": "Aventurine", "element": "Earth", "chakra": "Heart", "properties": "Luck, prosperity, heart healing", "uses": "Good fortune, opportunity, emotional healing, abundance"},
+  {"name": "Fluorite", "element": "Air/Water", "chakra": "Third Eye", "properties": "Focus, clarity, protection", "uses": "Mental clarity, decision making, studying, aura cleansing"}
+]

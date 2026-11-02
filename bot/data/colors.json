@@ -1,0 +1,130 @@
+{
+  "colors": {
+    "crimson red": {
+      "energy": "Passionate Action",
+      "meaning": "You need fierce courage and bold action. Channel your inner fire to overcome obstacles.",
+      "guidance": "Don't hold back today. This is your moment to be brave and take the leap you've been contemplating.",
+      "element": "Fire",
+      "chakra": "Root"
+    },
+    "deep orange": {
+      "energy": "Creative Vitality",
+      "meaning": "Your creative spirit is calling. Joy and enthusiasm will fuel your endeavors.",
+      "guidance": "Follow what brings you genuine excitement. Your playful energy is your superpower right now.",
+      "element": "Fire",
+      "chakra": "Sacral"
+    },
+    "golden yellow": {
+      "energy": "Mental Clarity",
+      "meaning": "Illumination and confidence shine upon you. Trust your intellect and vision.",
+      "guidance": "Seek knowledge and speak your truth. Your ideas have merit—don't dim your light.",
+      "element": "Air",
+      "chakra": "Solar Plexus"
+    },
+    "forest green": {
+      "energy": "Healing Growth",
+      "meaning": "Nature's renewal flows through you. Focus on growth, health, and abundance.",
+      "guidance": "Nurture yourself as you would a garden. What you tend to with care will flourish.",
+      "element": "Earth",
+      "chakra": "Heart"
+    },
+    "emerald green": {
+      "energy": "Heart Opening",
+      "meaning": "Compassion and love are your guides. Open your heart to give and receive freely.",
+      "guidance": "Practice kindness—to yourself and others. Vulnerability is strength today.",
+      "element": "Water",
+      "chakra": "Heart"
+    },
+    "sky blue": {
+      "energy": "Authentic Expression",
+      "meaning": "Your voice matters. Communicate with clarity and speak your innermost truth.",
+      "guidance": "Don't silence yourself to keep the peace. What needs to be said deserves to be heard.",
+      "element": "Air",
+      "chakra": "Throat"
+    },
+    "ocean blue": {
+      "energy": "Emotional Flow",
+      "meaning": "Deep feelings surface. Allow your emotions to move through you like water.",
+      "guidance": "Don't dam up what you feel. Crying, laughing, feeling—it's all sacred.",
+      "element": "Water",
+      "chakra": "Throat"
+    },
+    "indigo": {
+      "energy": "Intuitive Wisdom",
+      "meaning": "Your inner knowing is heightened. Trust the whispers of your intuition.",
+      "guidance": "Pay attention to synchronicities and gut feelings. The universe is speaking to you.",
+      "element": "Spirit",
+      "chakra": "Third Eye"
+    },
+    "violet purple": {
+      "energy": "Spiritual Connection",
+      "meaning": "You are divinely supported. Connect with something greater than yourself.",
+      "guidance": "Meditate, pray, or simply sit in wonder. Magic is available to you now.",
+      "element": "Spirit",
+      "chakra": "Crown"
+    },
+    "soft pink": {
+      "energy": "Gentle Love",
+      "meaning": "Tenderness and self-care are needed. Be gentle with yourself and others.",
+      "guidance": "Romance yourself today. Small acts of kindness create ripples of peace.",
+      "element": "Water",
+      "chakra": "Heart"
+    },
+    "midnight black": {
+      "energy": "Protection & Mystery",
+      "meaning": "Retreat into your inner sanctuary. Boundaries and rest are sacred.",
+      "guidance": "It's okay to say no. Guard your energy and honor your need for solitude.",
+      "element": "Earth",
+      "chakra": "Root"
+    },
+    "pure white": {
+      "energy": "Clarity & New Beginnings",
+      "meaning": "A fresh start awaits. Clear away the old to make space for the new.",
+      "guidance": "Release what no longer serves you. A blank page is full of possibility.",
+      "element": "Air",
+      "chakra": "Crown"
+    },
+    "silver": {
+      "energy": "Lunar Reflection",
+      "meaning": "Look within. The answers you seek are found in quiet contemplation.",
+      "guidance": "Journal, dream, reflect. Your subconscious holds wisdom for you.",
+      "element": "Water",
+      "chakra": "Third Eye"
+    },
+    "gold": {
+      "energy": "Solar Radiance",
+      "meaning": "Step into your power. You are worthy of abundance and recognition.",
+      "guidance": "Shine brightly without apology. Your success lifts others too.",
+      "element": "Fire",
+      "chakra": "Solar Plexus"
+    },
+    "brown": {
+      "energy": "Grounded Stability",
+      "meaning": "Return to earth. Practical matters and physical care need attention.",
+      "guidance": "Tend to basics: food, movement, rest. Your body is your temple.",
+      "element": "Earth",
+      "chakra": "Root"
+    },
+    "turquoise": {
+      "energy": "Healing Communication",
+      "meaning": "Speak your truth with compassion. Bridge heart and voice.",
+      "guidance": "Words can heal. Share your story—it might help someone else too.",
+      "element": "Water/Air",
+      "chakra": "Heart/Throat"
+    },
+    "coral": {
+      "energy": "Joyful Connection",
+      "meaning": "Reach out and connect. Community and warmth surround you.",
+      "guidance": "Gather with loved ones. Your presence is a gift to others.",
+      "element": "Fire/Water",
+      "chakra": "Sacral/Heart"
+    },
+    "lavender": {
+      "energy": "Peaceful Awareness",
+      "meaning": "Calm your mind. Serenity and spiritual insight are available.",
+      "guidance": "Create sacred space. Light a candle, breathe deep, be still.",
+      "element": "Air/Spirit",
+      "chakra": "Third Eye/Crown"
+    }
+  }
+}

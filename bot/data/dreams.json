@@ -1,0 +1,186 @@
+{
+  "symbols": [
+    {
+      "name": "Water",
+      "keywords": ["water", "ocean", "sea", "lake", "river", "stream", "pond", "swimming", "drowning", "flood", "wave", "tsunami"],
+      "meaning": "Emotions, subconscious, intuition. Calm water represents peace and clarity, while turbulent water indicates emotional unrest or spiritual awakening."
+    },
+    {
+      "name": "Flying",
+      "keywords": ["flying", "flew", "flight", "soaring", "floating", "levitating", "hovering"],
+      "meaning": "Freedom, ambition, transcendence, rising above limitations. You're gaining spiritual perspective or feeling liberated from constraints."
+    },
+    {
+      "name": "Falling",
+      "keywords": ["falling", "fell", "drop", "dropping", "plummeting", "tumbling"],
+      "meaning": "Loss of control, anxiety, insecurity, fear of failure. You may feel things are spiraling or that you're losing your grip on a situation."
+    },
+    {
+      "name": "Being Chased",
+      "keywords": ["chased", "chasing", "pursued", "running", "fleeing", "escape", "escaping", "hunted"],
+      "meaning": "Avoidance of emotions, situations, or responsibilities in waking life. Whatever you're running from needs to be confronted."
+    },
+    {
+      "name": "Being Trapped",
+      "keywords": ["trapped", "stuck", "confined", "locked", "cage", "prison", "enclosed", "can't escape"],
+      "meaning": "Frustration, feeling stuck, something holding you back. You may feel confined in a relationship, job, or life situation."
+    },
+    {
+      "name": "Snake",
+      "keywords": ["snake", "snakes", "serpent", "viper", "python", "cobra", "rattlesnake"],
+      "meaning": "Transformation, rebirth, kundalini energy, shedding old beliefs for growth. Snakes represent powerful change or hidden threats."
+    },
+    {
+      "name": "Death",
+      "keywords": ["death", "dying", "dead", "corpse", "funeral", "grave", "cemetery", "coffin"],
+      "meaning": "Transformation and the end of a phase, NOT literal death. Significant life changes, letting go of old habits, or major transitions."
+    },
+    {
+      "name": "House",
+      "keywords": ["house", "home", "building", "mansion", "apartment", "room", "bedroom", "kitchen", "basement", "attic"],
+      "meaning": "Your mind and thought processes. Different rooms represent memories and emotions. The condition of the house reflects your mental state."
+    },
+    {
+      "name": "Money",
+      "keywords": ["money", "cash", "dollars", "coins", "wallet", "rich", "wealth", "currency", "bills", "payment"],
+      "meaning": "Self-worth and the value you place in yourself. Not always about finances - more about how you value your own worth."
+    },
+    {
+      "name": "Vehicle",
+      "keywords": ["car", "vehicle", "driving", "automobile", "truck", "bus", "train", "driving", "passenger", "driver"],
+      "meaning": "Life direction and the level of control you feel. Are you driving (in control) or a passenger (letting others control your path)?"
+    },
+    {
+      "name": "Ladder",
+      "keywords": ["ladder", "climbing", "climbed", "stairs", "staircase", "steps", "ascending"],
+      "meaning": "Goals, aspirations, higher awareness, spiritual connection. Climbing up represents progress toward your ambitions."
+    },
+    {
+      "name": "Key",
+      "keywords": ["key", "keys", "unlock", "unlocking", "locked", "keyhole"],
+      "meaning": "Access, solutions, unlocking potential. You're discovering answers or gaining access to new opportunities and understanding."
+    },
+    {
+      "name": "Moon",
+      "keywords": ["moon", "lunar", "full moon", "crescent", "moonlight"],
+      "meaning": "Wisdom, intelligence, mysteriousness, feminine energy. Crescent moon represents endings or new beginnings."
+    },
+    {
+      "name": "Drowning",
+      "keywords": ["drowning", "drowned", "underwater", "suffocating", "can't breathe"],
+      "meaning": "Feeling overwhelmed, burdened with responsibilities. You're in over your head emotionally or practically."
+    },
+    {
+      "name": "Missing a Flight",
+      "keywords": ["missed flight", "missing flight", "late", "airport", "plane", "flight"],
+      "meaning": "Feeling late, unorganized, anxiety about time. Fear of missing opportunities or running out of time."
+    },
+    {
+      "name": "Exam or Test",
+      "keywords": ["exam", "test", "quiz", "examination", "studying", "unprepared", "failing"],
+      "meaning": "Stress, self-doubt, anxiety about evaluation or judgment. Fear of being unprepared or not measuring up."
+    },
+    {
+      "name": "Being Naked in Public",
+      "keywords": ["naked", "nude", "undressed", "exposed", "no clothes", "bare", "public nudity"],
+      "meaning": "Feeling vulnerable, exposed, embarrassed. Dishonesty about something or fear of your true self being revealed."
+    },
+    {
+      "name": "Teeth Falling Out",
+      "keywords": ["teeth", "tooth", "losing teeth", "falling teeth", "dental", "toothless"],
+      "meaning": "Anxiety about appearance, aging, losing control. Insecurities, fear of helplessness, or major life transitions."
+    },
+    {
+      "name": "Fire",
+      "keywords": ["fire", "flames", "burning", "burn", "blaze", "inferno", "smoke"],
+      "meaning": "Passion, transformation, destruction, purification. Can represent anger, desire, or the burning away of what no longer serves."
+    },
+    {
+      "name": "Baby",
+      "keywords": ["baby", "infant", "newborn", "child", "pregnancy", "pregnant"],
+      "meaning": "New beginnings, vulnerability, potential, innocence. Something new is being born in your life."
+    },
+    {
+      "name": "Bird",
+      "keywords": ["bird", "birds", "owl", "raven", "crow", "eagle", "dove", "hawk", "feathers"],
+      "meaning": "Freedom, perspective, spiritual messages. Different birds carry specific meanings (owl = wisdom, raven = transformation)."
+    },
+    {
+      "name": "Cat",
+      "keywords": ["cat", "cats", "kitten", "feline", "black cat"],
+      "meaning": "Independence, mystery, feminine power, intuition. Black cats represent magic and the unknown."
+    },
+    {
+      "name": "Dog",
+      "keywords": ["dog", "dogs", "puppy", "canine", "hound"],
+      "meaning": "Loyalty, friendship, protection, instincts. Your faithful companions or protective instincts."
+    },
+    {
+      "name": "Spider",
+      "keywords": ["spider", "spiders", "web", "cobweb", "arachnid", "tarantula"],
+      "meaning": "Creativity, patience, feminine energy, weaving your destiny. Or feeling caught in a web of lies/manipulation."
+    },
+    {
+      "name": "Blood",
+      "keywords": ["blood", "bleeding", "bloody", "wound", "cut", "hemorrhage"],
+      "meaning": "Life force, vitality, passion, or loss of energy. Can represent family ties, sacrifice, or emotional wounds."
+    },
+    {
+      "name": "Mirror",
+      "keywords": ["mirror", "reflection", "reflective", "broken mirror", "looking glass"],
+      "meaning": "Self-reflection, truth, how you see yourself. A broken mirror suggests fractured self-image or fear of bad luck."
+    },
+    {
+      "name": "Rain",
+      "keywords": ["rain", "raining", "storm", "rainfall", "downpour", "drizzle"],
+      "meaning": "Cleansing, renewal, emotional release, sadness. Heavy rain may indicate emotional overwhelm."
+    },
+    {
+      "name": "Door",
+      "keywords": ["door", "doorway", "entrance", "exit", "threshold", "portal", "gate"],
+      "meaning": "Opportunities, transitions, new possibilities. Open door = invitation; closed door = blocked path."
+    },
+    {
+      "name": "Tree",
+      "keywords": ["tree", "trees", "forest", "woods", "branches", "roots", "trunk", "leaves"],
+      "meaning": "Growth, stability, life's journey, connection to nature. Roots represent foundations; branches represent growth."
+    },
+    {
+      "name": "Bridge",
+      "keywords": ["bridge", "crossing", "overpass", "path", "walkway"],
+      "meaning": "Transition, connection, crossing from one phase to another. Moving from the known to the unknown."
+    },
+    {
+      "type": "Being Shot",
+      "meaning": "Fighting for survival, struggling to achieve goals, stuck in an uncomfortable situation that feels threatening."
+    },
+    {
+      "type": "Assault",
+      "meaning": "Feelings of vulnerability, fear, powerlessness. Feeling threatened emotionally or physically in your waking life."
+    },
+    {
+      "type": "Arguments",
+      "meaning": "Internal conflicts, unresolved issues with others, communication problems, emotional tension you haven't addressed."
+    },
+    {
+      "type": "Tornado or Natural Disaster",
+      "meaning": "Mounting worries and anxieties, extreme emotion, loss of control, challenging inescapable situations."
+    },
+    {
+      "type": "Bug Infestation",
+      "meaning": "Guilt, minor irritations, worries, or health problems. Small annoyances building into bigger issues."
+    },
+    {
+      "type": "Apocalypse",
+      "meaning": "Huge life change approaching - 'end of life as you know it.' Major transitions like puberty, marriage, career change, or retirement."
+    },
+    {
+      "type": "Zombies",
+      "meaning": "Overwhelmed by mindless repetitive tasks, fear of losing individuality, anxieties about conformity or losing yourself."
+    },
+    {
+      "type": "Monsters",
+      "meaning": "Hidden fears, aspects of yourself you reject, or situations you find monstrous. Also represents desire to change something in your life."
+    }
+  ]
+}

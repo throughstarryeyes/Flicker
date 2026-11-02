@@ -1,0 +1,300 @@
+{
+  "herbs": {
+    "rose": {
+      "type": "herb",
+      "intents": {"love": 5, "healing": 2},
+      "planet": "Venus",
+      "element": "Water",
+      "description": "Unconditional love, attraction, and emotional healing",
+      "synonyms": ["roses", "rose petals", "rose buds"]
+    },
+    "jasmine": {
+      "type": "herb",
+      "intents": {"love": 5},
+      "planet": "Venus",
+      "element": "Water",
+      "description": "Sensuality, romance, and devotion",
+      "synonyms": ["jasmine flower", "jasmine petals"]
+    },
+    "lavender": {
+      "type": "herb",
+      "intents": {"love": 3, "healing": 3, "protection": 2},
+      "planet": "Venus",
+      "element": "Water",
+      "description": "Calming love, harmony, and friendship",
+      "synonyms": ["lavender buds", "lavender flowers"]
+    },
+    "damiana": {
+      "type": "herb",
+      "intents": {"love": 4},
+      "planet": "Venus",
+      "element": "Water",
+      "description": "Passion and confidence",
+      "synonyms": ["damiana leaf", "damiana leaves"]
+    },
+    "hibiscus": {
+      "type": "herb",
+      "intents": {"love": 5},
+      "planet": "Venus",
+      "element": "Water",
+      "description": "Lust, attraction, and beauty",
+      "synonyms": ["hibiscus flower", "hibiscus petals"]
+    },
+    "apple blossom": {
+      "type": "herb",
+      "intents": {"love": 4},
+      "planet": "Venus",
+      "element": "Water",
+      "description": "Long-term love and marriage",
+      "synonyms": ["apple blossoms", "apple flowers"]
+    },
+    "violet": {
+      "type": "herb",
+      "intents": {"love": 3},
+      "planet": "Venus",
+      "element": "Water",
+      "description": "Faithful affection and modesty",
+      "synonyms": ["violets", "violet flowers"]
+    },
+    "rue": {
+      "type": "herb",
+      "intents": {"protection": 5, "baneful": 3},
+      "planet": "Mars",
+      "element": "Fire",
+      "description": "Powerful ward against evil and curses",
+      "synonyms": ["rue herb"]
+    },
+    "sage": {
+      "type": "herb",
+      "intents": {"protection": 5, "healing": 2},
+      "planet": "Jupiter",
+      "element": "Fire",
+      "description": "Cleansing and banishment",
+      "synonyms": ["white sage", "garden sage", "salvia"]
+    },
+    "bay leaf": {
+      "type": "herb",
+      "intents": {"protection": 4, "prosperity": 4},
+      "planet": "Jupiter",
+      "element": "Fire",
+      "description": "Protection from harm, negativity, and wish fulfillment",
+      "synonyms": ["bay leaves", "bay laurel", "laurel leaf"]
+    },
+    "basil": {
+      "type": "herb",
+      "intents": {"protection": 3, "prosperity": 4},
+      "planet": "Mars/Jupiter",
+      "element": "Fire",
+      "description": "House protection, harmony, and prosperity",
+      "synonyms": ["sweet basil", "basil leaves"]
+    },
+    "angelica": {
+      "type": "herb",
+      "intents": {"protection": 5},
+      "planet": "Jupiter",
+      "element": "Fire",
+      "description": "Strong spiritual shield",
+      "synonyms": ["angelica root"]
+    },
+    "black pepper": {
+      "type": "herb",
+      "intents": {"protection": 3, "baneful": 2},
+      "planet": "Mars",
+      "element": "Fire",
+      "description": "Deflects hexes and gossip",
+      "synonyms": ["peppercorns", "pepper"]
+    },
+    "mugwort": {
+      "type": "herb",
+      "intents": {"protection": 4},
+      "planet": "Mars/Moon",
+      "element": "Fire",
+      "description": "Psychic protection for dreamers and travelers",
+      "synonyms": ["artemisia", "mugwort herb"]
+    },
+    "rosemary": {
+      "type": "herb",
+      "intents": {"healing": 5, "protection": 3},
+      "planet": "Sun",
+      "element": "Water",
+      "description": "Renewal, clarity, and purification",
+      "synonyms": ["rosemary leaves", "rosemary sprigs"]
+    },
+    "eucalyptus": {
+      "type": "herb",
+      "intents": {"healing": 5},
+      "planet": "Mercury",
+      "element": "Water",
+      "description": "Physical healing and clearing illness energy",
+      "synonyms": ["eucalyptus leaves", "eucalyptus oil"]
+    },
+    "chamomile": {
+      "type": "herb",
+      "intents": {"healing": 4, "luck": 2},
+      "planet": "Sun",
+      "element": "Water",
+      "description": "Stress relief and gentle healing",
+      "synonyms": ["chamomile flowers", "chamomile tea"]
+    },
+    "peppermint": {
+      "type": "herb",
+      "intents": {"healing": 4, "prosperity": 2},
+      "planet": "Mercury",
+      "element": "Air",
+      "description": "Energy restoration and clarity",
+      "synonyms": ["mint", "peppermint leaves"]
+    },
+    "comfrey": {
+      "type": "herb",
+      "intents": {"healing": 5},
+      "planet": "Sun",
+      "element": "Water",
+      "description": "Regeneration and recovery",
+      "synonyms": ["comfrey root", "comfrey leaves"]
+    },
+    "calendula": {
+      "type": "herb",
+      "intents": {"healing": 4},
+      "planet": "Sun",
+      "element": "Water",
+      "description": "Soothing emotional and physical wounds",
+      "synonyms": ["marigold", "calendula flowers"]
+    },
+    "thyme": {
+      "type": "herb",
+      "intents": {"healing": 3, "protection": 2},
+      "planet": "Mercury",
+      "element": "Air",
+      "description": "Courage and recovery from grief",
+      "synonyms": ["thyme leaves", "garden thyme"]
+    },
+    "wormwood": {
+      "type": "herb",
+      "intents": {"baneful": 5, "protection": 2},
+      "planet": "Saturn",
+      "element": "Fire",
+      "description": "Spirit contact, vengeance, and curse reinforcement",
+      "synonyms": ["artemisia absinthium", "wormwood herb"]
+    },
+    "belladonna": {
+      "type": "herb",
+      "intents": {"baneful": 5},
+      "planet": "Saturn",
+      "element": "Fire",
+      "description": "Traditional poison path herb (handle symbolically; highly toxic)",
+      "synonyms": ["deadly nightshade", "atropa"]
+    },
+    "hemlock": {
+      "type": "herb",
+      "intents": {"baneful": 5},
+      "planet": "Saturn",
+      "element": "Fire",
+      "description": "Silence and control (symbolic use only; toxic)",
+      "synonyms": ["poison hemlock"]
+    },
+    "mandrake": {
+      "type": "herb",
+      "intents": {"baneful": 4, "protection": 3},
+      "planet": "Saturn",
+      "element": "Earth",
+      "description": "Power, domination, protection against enemies",
+      "synonyms": ["mandrake root", "mandragora"]
+    },
+    "blackthorn": {
+      "type": "herb",
+      "intents": {"baneful": 4},
+      "planet": "Saturn",
+      "element": "Fire",
+      "description": "Hexing and justice",
+      "synonyms": ["sloe", "blackthorn berries"]
+    },
+    "yew": {
+      "type": "herb",
+      "intents": {"baneful": 4},
+      "planet": "Saturn",
+      "element": "Earth",
+      "description": "Endings and ancestral wrath (symbolic use only; toxic)",
+      "synonyms": ["yew tree", "yew needles"]
+    },
+    "chili": {
+      "type": "herb",
+      "intents": {"baneful": 3, "protection": 2},
+      "planet": "Mars",
+      "element": "Fire",
+      "description": "To heat up baneful work",
+      "synonyms": ["chili pepper", "hot pepper", "cayenne"]
+    },
+    "clover": {
+      "type": "herb",
+      "intents": {"luck": 5, "protection": 2},
+      "planet": "Jupiter",
+      "element": "Fire",
+      "description": "General good fortune and protection",
+      "synonyms": ["four leaf clover", "shamrock"]
+    },
+    "allspice": {
+      "type": "herb",
+      "intents": {"luck": 4},
+      "planet": "Jupiter",
+      "element": "Fire",
+      "description": "Success and quick luck",
+      "synonyms": ["allspice berries"]
+    },
+    "cinnamon": {
+      "type": "herb",
+      "intents": {"luck": 4, "prosperity": 5},
+      "planet": "Jupiter/Sun",
+      "element": "Fire",
+      "description": "Fast attraction, favorable outcomes, and wealth",
+      "synonyms": ["cinnamon stick", "cinnamon powder"]
+    },
+    "nutmeg": {
+      "type": "herb",
+      "intents": {"luck": 4},
+      "planet": "Jupiter",
+      "element": "Fire",
+      "description": "Gambling and travel luck",
+      "synonyms": ["nutmeg seed"]
+    },
+    "irish moss": {
+      "type": "herb",
+      "intents": {"luck": 4, "prosperity": 3},
+      "planet": "Jupiter",
+      "element": "Fire",
+      "description": "Steady financial luck and safe travel",
+      "synonyms": ["sea moss", "carrageen"]
+    },
+    "mint": {
+      "type": "herb",
+      "intents": {"prosperity": 4, "healing": 2},
+      "planet": "Venus",
+      "element": "Earth",
+      "description": "Abundance and confidence",
+      "synonyms": ["spearmint", "mint leaves"]
+    },
+    "patchouli": {
+      "type": "herb",
+      "intents": {"prosperity": 5},
+      "planet": "Jupiter",
+      "element": "Earth",
+      "description": "Material success and manifestation",
+      "synonyms": ["patchouli leaves", "patchouli oil"]
+    },
+    "alfalfa": {
+      "type": "herb",
+      "intents": {"prosperity": 4},
+      "planet": "Venus",
+      "element": "Earth",
+      "description": "Money protection and long-term wealth",
+      "synonyms": ["alfalfa sprouts", "lucerne"]
+    },
+    "clove": {
+      "type": "herb",
+      "intents": {"prosperity": 3, "protection": 2},
+      "planet": "Jupiter",
+      "element": "Earth",
+      "description": "Luck in finance and overcoming obstacles",
+      "synonyms": ["cloves", "whole clove"]
+    }
+  }
+}

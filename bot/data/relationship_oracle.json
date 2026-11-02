@@ -1,0 +1,242 @@
+[
+    {
+      "id": 1,
+      "name": "New Spark",
+      "keywords": "chemistry, curiosity, early momentum",
+      "meaning": "Attraction is active and attention is narrowing in; the connection is gaining energy."
+    },
+    {
+      "id": 2,
+      "name": "Slow Burn",
+      "keywords": "gradual growth, trust-building, patience",
+      "meaning": "The bond develops through time and consistency more than intensity."
+    },
+    {
+      "id": 3,
+      "name": "Mirror",
+      "keywords": "reflection, projection, recognition",
+      "meaning": "Something in the dynamic reflects back a personal pattern, want, or fear."
+    },
+    {
+      "id": 4,
+      "name": "Mutual Interest",
+      "keywords": "reciprocity, alignment, shared energy",
+      "meaning": "Engagement is returned; interest is not one-sided in this moment."
+    },
+    {
+      "id": 5,
+      "name": "Mixed Signals",
+      "keywords": "inconsistency, confusion, hot-and-cold",
+      "meaning": "Communication or behavior conflicts; the pattern is hard to read cleanly."
+    },
+    {
+      "id": 6,
+      "name": "Clear Message",
+      "keywords": "directness, honesty, transparency",
+      "meaning": "The signal is straightforward; intentions or feelings are easier to interpret."
+    },
+    {
+      "id": 7,
+      "name": "Unspoken Feelings",
+      "keywords": "avoidance, holding back, unsaid truth",
+      "meaning": "Important emotions exist under the surface; the dynamic is shaped by what isn’t voiced."
+    },
+    {
+      "id": 8,
+      "name": "Vulnerability",
+      "keywords": "openness, tenderness, emotional risk",
+      "meaning": "The connection deepens through honesty; defenses lower enough to be seen."
+    },
+    {
+      "id": 9,
+      "name": "Guarded Heart",
+      "keywords": "self-protection, caution, distance",
+      "meaning": "A boundary or wall is active; closeness is limited by fear of impact."
+    },
+    {
+      "id": 10,
+      "name": "Emotional Availability",
+      "keywords": "readiness, presence, responsiveness",
+      "meaning": "Someone can meet emotion with emotion; engagement is possible without withdrawal."
+    },
+    {
+      "id": 11,
+      "name": "Emotional Unavailability",
+      "keywords": "detachment, absence, avoidance",
+      "meaning": "The emotional channel is restricted; connection may be felt but not fully met."
+    },
+    {
+      "id": 12,
+      "name": "Attachment Trigger",
+      "keywords": "activation, fear response, old wound",
+      "meaning": "A nervous-system response colors perception; the present touches something older."
+    },
+    {
+      "id": 13,
+      "name": "Repair Attempt",
+      "keywords": "reconciliation, accountability, re-connection",
+      "meaning": "There is movement toward resolution; the dynamic shifts from rupture toward repair."
+    },
+    {
+      "id": 14,
+      "name": "Rupture",
+      "keywords": "conflict, fracture, disconnection",
+      "meaning": "Trust or safety takes a hit; the bond is strained by impact or misunderstanding."
+    },
+    {
+      "id": 15,
+      "name": "Miscommunication",
+      "keywords": "assumptions, misunderstanding, crossed wires",
+      "meaning": "Meaning gets lost in translation; the issue is partly interpretive, not purely factual."
+    },
+    {
+      "id": 16,
+      "name": "Hard Conversation",
+      "keywords": "truth, discomfort, confrontation",
+      "meaning": "The dynamic requires clarity that may feel tense; avoidance increases cost over time."
+    },
+    {
+      "id": 17,
+      "name": "Boundary",
+      "keywords": "limits, self-respect, containment",
+      "meaning": "A line defines what is acceptable; energy is protected and structured."
+    },
+    {
+      "id": 18,
+      "name": "Overgiving",
+      "keywords": "imbalance, depletion, chasing",
+      "meaning": "Effort isn’t evenly matched; one side carries more emotional labor or responsibility."
+    },
+    {
+      "id": 19,
+      "name": "Receiving",
+      "keywords": "allowing, openness, support",
+      "meaning": "Care or connection is available; the dynamic shifts from control into acceptance."
+    },
+    {
+      "id": 20,
+      "name": "Control",
+      "keywords": "power, managing outcomes, rigidity",
+      "meaning": "The bond is shaped by pressure to steer; freedom and spontaneity are reduced."
+    },
+    {
+      "id": 21,
+      "name": "Autonomy",
+      "keywords": "space, individuality, independence",
+      "meaning": "Healthy separation exists inside connection; closeness doesn’t erase selfhood."
+    },
+    {
+      "id": 22,
+      "name": "Trust",
+      "keywords": "reliability, safety, consistency",
+      "meaning": "The foundation holds; patterns suggest stability rather than volatility."
+    },
+    {
+      "id": 23,
+      "name": "Jealousy",
+      "keywords": "insecurity, comparison, fear of loss",
+      "meaning": "Possession or fear colors the bond; perception narrows around threat."
+    },
+    {
+      "id": 24,
+      "name": "Temptation",
+      "keywords": "magnetism, impulse, risky desire",
+      "meaning": "A pull exists that may conflict with values or stability; intensity competes with consequence."
+    },
+    {
+      "id": 25,
+      "name": "Commitment",
+      "keywords": "devotion, agreement, long-term bond",
+      "meaning": "The connection takes a defined shape; expectations become more formal or explicit."
+    },
+    {
+      "id": 26,
+      "name": "Ambiguity",
+      "keywords": "uncertainty, unclear status, limbo",
+      "meaning": "The relationship’s label or direction isn’t settled; meaning is still being negotiated."
+    },
+    {
+      "id": 27,
+      "name": "Different Timelines",
+      "keywords": "timing mismatch, readiness gap, pacing",
+      "meaning": "Desire and readiness don’t move at the same speed; pressure rises around pace."
+    },
+    {
+      "id": 28,
+      "name": "Distance",
+      "keywords": "space, separation, emotional or physical gap",
+      "meaning": "Closeness is limited by location, availability, or protective withdrawal."
+    },
+    {
+      "id": 29,
+      "name": "Closeness",
+      "keywords": "intimacy, proximity, emotional safety",
+      "meaning": "Connection intensifies; shared understanding or comfort increases."
+    },
+    {
+      "id": 30,
+      "name": "Third Influence",
+      "keywords": "outside factor, interference, other priorities",
+      "meaning": "The dynamic is affected by something external: people, obligations, stress, or context."
+    },
+    {
+      "id": 31,
+      "name": "Pattern Loop",
+      "keywords": "cycle, repetition, familiar conflict",
+      "meaning": "The same theme repeats with new details; the bond follows a recognizable track."
+    },
+    {
+      "id": 32,
+      "name": "Breakthrough",
+      "keywords": "shift, insight, changed behavior",
+      "meaning": "A new understanding alters the dynamic; stuck energy begins to move."
+    },
+    {
+      "id": 33,
+      "name": "Red Flag",
+      "keywords": "warning, instability, unsafe pattern",
+      "meaning": "Behavior indicates risk to trust or safety; the pattern deserves attention."
+    },
+    {
+      "id": 34,
+      "name": "Green Flag",
+      "keywords": "health, stability, respect",
+      "meaning": "Behavior signals safety and consistency; the dynamic supports growth."
+    },
+    {
+      "id": 35,
+      "name": "Mixed Motives",
+      "keywords": "self-interest, confusion, hidden agenda",
+      "meaning": "Intentions aren’t fully aligned or fully honest; there’s more than one driver."
+    },
+    {
+      "id": 36,
+      "name": "Honest Intent",
+      "keywords": "clarity, sincerity, clean motive",
+      "meaning": "The energy behind action is straightforward; the aim is not covert."
+    },
+    {
+      "id": 37,
+      "name": "Closure",
+      "keywords": "ending, acceptance, finality",
+      "meaning": "A chapter resolves; the bond or its current form reaches an endpoint."
+    },
+    {
+      "id": 38,
+      "name": "Second Chance",
+      "keywords": "return, renewal, reconsideration",
+      "meaning": "Something reopens; the connection revisits a door that was previously shut."
+    },
+    {
+      "id": 39,
+      "name": "Nervous System Calm",
+      "keywords": "settling, safety, regulation",
+      "meaning": "The relationship feels quieter in the body; threat response decreases."
+    },
+    {
+      "id": 40,
+      "name": "Nervous System Alarm",
+      "keywords": "hypervigilance, anxiety, threat response",
+      "meaning": "The bond activates stress patterns; perception sharpens around danger or loss."
+    }
+  ]  

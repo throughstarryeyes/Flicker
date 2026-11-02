@@ -1,0 +1,116 @@
+{
+  "colors": [
+    {
+      "name": "Red",
+      "chakra": "Root",
+      "meaning": "Energy, passion, vitality, physical strength, courage",
+      "personality": "Driven, action-oriented, strong-willed, natural leader",
+      "shadow": "Anger, stress, impulsiveness, aggression"
+    },
+    {
+      "name": "Orange",
+      "chakra": "Sacral",
+      "meaning": "Creativity, enthusiasm, joy, adventure",
+      "personality": "Social, expressive, optimistic, risk-taker",
+      "shadow": "Overindulgence, emotional overwhelm, addiction to stimulation"
+    },
+    {
+      "name": "Yellow",
+      "chakra": "Solar Plexus",
+      "meaning": "Intellect, optimism, curiosity, mental clarity, confidence",
+      "personality": "Bright, energetic, analytical, charismatic, innovative",
+      "shadow": "Overthinking, anxiety, lack of focus"
+    },
+    {
+      "name": "Green",
+      "chakra": "Heart",
+      "meaning": "Harmony, growth, healing, balance, love",
+      "personality": "Nurturing, empathetic, caring, connected to nature",
+      "shadow": "Jealousy, possessiveness, people-pleasing"
+    },
+    {
+      "name": "Blue",
+      "chakra": "Throat",
+      "meaning": "Calmness, communication, spirituality, clarity, truth",
+      "personality": "Peaceful, articulate, expressive, spiritual, trustworthy",
+      "shadow": "Cold, detached, overly serious"
+    },
+    {
+      "name": "Indigo",
+      "chakra": "Third Eye",
+      "meaning": "Intuition, wisdom, inner knowledge, sensitivity, psychic ability",
+      "personality": "Introspective, imaginative, spiritually attuned, visionary",
+      "shadow": "Isolation, lack of self-confidence, living in fantasy"
+    },
+    {
+      "name": "Purple",
+      "chakra": "Crown",
+      "meaning": "Spirituality, enlightenment, universal connection, higher consciousness",
+      "personality": "Highly intuitive, visionary, compassionate, charismatic, wise",
+      "shadow": "Idealism, disconnect from practical life, superiority complex"
+    },
+    {
+      "name": "White",
+      "chakra": "All Chakras",
+      "meaning": "Purity, divine connection, spiritual awakening, enlightenment, protection",
+      "personality": "High vibration, balanced, harmonious, spiritually evolved",
+      "shadow": "Avoidance of earthly matters, spiritual bypassing"
+    },
+    {
+      "name": "Pink",
+      "chakra": "Heart",
+      "meaning": "Love, compassion, kindness, emotional sensitivity, nurturing",
+      "personality": "Caring, affectionate, nurturing, empathetic, gentle",
+      "shadow": "Oversensitivity, difficulty with boundaries"
+    },
+    {
+      "name": "Gold",
+      "chakra": "Crown",
+      "meaning": "Divine protection, spiritual awakening, enlightenment, wisdom",
+      "personality": "Strong connection to higher realms, spiritual guidance, inner wisdom",
+      "shadow": "Ego inflation, spiritual arrogance"
+    },
+    {
+      "name": "Silver",
+      "chakra": "Third Eye",
+      "meaning": "Intuition, psychic abilities, spiritual gifts, lunar energy",
+      "personality": "Strong intuitive and psychic capacities, mystical, reflective",
+      "shadow": "Illusion, confusion, lack of grounding"
+    },
+    {
+      "name": "Rainbow",
+      "chakra": "All Chakras",
+      "meaning": "Spiritual mastery, complete balance, enlightenment, divine integration",
+      "personality": "Harmonious integration of all aspects - physical, emotional, mental, spiritual",
+      "shadow": "Rare - indicates advanced spiritual development"
+    },
+    {
+      "name": "Black",
+      "chakra": "Root",
+      "meaning": "Protection, transformation, inner change, mystery, void",
+      "personality": "Going through major transformation, purging old energy, spiritual cleansing",
+      "shadow": "Depression, blocked energy, unresolved trauma (context dependent)"
+    },
+    {
+      "name": "Brown",
+      "chakra": "Root",
+      "meaning": "Groundedness, practicality, material focus, earthiness",
+      "personality": "Down-to-earth, focused on physical and material aspects, practical",
+      "shadow": "Overly materialistic, stubborn, resistance to change"
+    },
+    {
+      "name": "Grey",
+      "chakra": "None",
+      "meaning": "Neutrality, uncertainty, transition, blocked energy, indecision",
+      "personality": "In transition, uncertain, processing, not fully formed",
+      "shadow": "Confusion, depression, lack of direction"
+    },
+    {
+      "name": "Teal",
+      "chakra": "Heart/Throat",
+      "meaning": "Balance, harmony, adaptability, communication from the heart",
+      "personality": "Creative, intuitive, empathetic, flexible, healing communicator",
+      "shadow": "Difficulty choosing between head and heart"
+    }
+  ]
+}

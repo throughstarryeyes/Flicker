@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Fire",
+    "direction": "South",
+    "season": "Summer",
+    "time": "Noon",
+    "zodiac": "Aries, Leo, Sagittarius",
+    "qualities": "Passion, energy, courage, transformation, willpower, creativity",
+    "tools": "Wand, Athame",
+    "colors": "Red, Orange, Gold",
+    "description": "Fire represents passion, energy, and transformation. It is the element of willpower, courage, and creativity. Fire burns away the old to make room for the new."
+  },
+  {
+    "name": "Water",
+    "direction": "West",
+    "season": "Autumn",
+    "time": "Dusk",
+    "zodiac": "Cancer, Scorpio, Pisces",
+    "qualities": "Emotion, intuition, healing, purification, flow, love",
+    "tools": "Chalice, Cauldron",
+    "colors": "Blue, Silver, Turquoise",
+    "description": "Water represents emotions, intuition, and healing. It is the element of love, purification, and the subconscious. Water flows and adapts, teaching us to move with life."
+  },
+  {
+    "name": "Air",
+    "direction": "East",
+    "season": "Spring",
+    "time": "Dawn",
+    "zodiac": "Gemini, Libra, Aquarius",
+    "qualities": "Intellect, communication, knowledge, clarity, freedom, inspiration",
+    "tools": "Wand, Athame, Incense",
+    "colors": "Yellow, White, Light Blue",
+    "description": "Air represents intellect, communication, and knowledge. It is the element of the mind, clarity, and inspiration. Air brings new ideas and fresh perspectives."
+  },
+  {
+    "name": "Earth",
+    "direction": "North",
+    "season": "Winter",
+    "time": "Midnight",
+    "zodiac": "Taurus, Virgo, Capricorn",
+    "qualities": "Stability, grounding, abundance, fertility, strength, prosperity",
+    "tools": "Pentacle, Salt, Stones",
+    "colors": "Green, Brown, Black",
+    "description": "Earth represents stability, grounding, and abundance. It is the element of the physical world, prosperity, and growth. Earth keeps us rooted and provides all we need."
+  },
+  {
+    "name": "Spirit",
+    "direction": "Center/Above",
+    "season": "All",
+    "time": "All",
+    "zodiac": "All",
+    "qualities": "Unity, divine connection, transcendence, balance, wholeness",
+    "tools": "None (all tools)",
+    "colors": "Purple, White, All colors",
+    "description": "Spirit (or Akasha) represents the divine spark within all things. It is unity, transcendence, and the connection between all elements. Spirit binds everything together."
+  }
+]

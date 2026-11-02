@@ -1,0 +1,514 @@
+{
+  "wands": [
+    {
+      "name": "Ace of Wands",
+      "number": "1",
+      "correspondences": "",
+      "keywords": "New beginnings, creative potential, inspiration, opportunity",
+      "meaning": "A spark catches: creative drive rises, and a new impulse wants to become real.",
+      "reversed_keywords": "Delays, lack of inspiration, creative block, procrastination",
+      "reversed_meaning": "The spark is dampened: energy disperses into delay, doubt, or stalled momentum."
+    },
+    {
+      "name": "Two of Wands",
+      "number": "2",
+      "correspondences": "Planet: Mars • Zodiac: Aries",
+      "keywords": "Planning, future vision, choices, personal power",
+      "meaning": "A threshold of choice: vision expands, and direction becomes the central tension.",
+      "reversed_keywords": "Fear of change, lack of direction, indecision, hesitation",
+      "reversed_meaning": "Choice becomes foggy: direction blurs under hesitation or fear of what comes next."
+    },
+    {
+      "name": "Three of Wands",
+      "number": "3",
+      "correspondences": "Planet: Sun • Zodiac: Aries",
+      "keywords": "Expansion, foresight, exploration, progress",
+      "meaning": "Momentum extends outward: efforts begin to reach beyond the starting point.",
+      "reversed_keywords": "Obstacles, delays, frustration, setbacks",
+      "reversed_meaning": "Expansion meets friction: progress slows under obstacles, timing, or misalignment."
+    },
+    {
+      "name": "Four of Wands",
+      "number": "4",
+      "correspondences": "Planet: Venus • Zodiac: Aries",
+      "keywords": "Celebration, harmony, homecoming, stability",
+      "meaning": "Stability lands: a milestone settles into safety, community, or shared joy.",
+      "reversed_keywords": "Lack of support, instability, disarray, tension",
+      "reversed_meaning": "Stability is uneven: belonging frays, support feels thin, or harmony is disrupted."
+    },
+    {
+      "name": "Five of Wands",
+      "number": "5",
+      "correspondences": "Planet: Saturn • Zodiac: Leo",
+      "keywords": "Conflict, competition, tension, challenges",
+      "meaning": "Friction in motion: competing wills clash, stirring chaos, heat, and growth pressure.",
+      "reversed_keywords": "Avoidance, peace, harmony, reconciliation",
+      "reversed_meaning": "Friction redirects: conflict is avoided, cooled, or moved into quieter negotiations."
+    },
+    {
+      "name": "Six of Wands",
+      "number": "6",
+      "correspondences": "Planet: Jupiter • Zodiac: Leo",
+      "keywords": "Victory, success, recognition, pride",
+      "meaning": "Recognition arrives: momentum turns into visible success and social affirmation.",
+      "reversed_keywords": "Excess pride, lack of recognition, feeling unappreciated, humility",
+      "reversed_meaning": "Recognition is distorted: praise is missing, delayed, or tangled with pride and doubt."
+    },
+    {
+      "name": "Seven of Wands",
+      "number": "7",
+      "correspondences": "Planet: Mars • Zodiac: Leo",
+      "keywords": "Defense, standing ground, perseverance, courage",
+      "meaning": "Pressure rises: position is tested, and defense becomes the active posture.",
+      "reversed_keywords": "Giving up, lack of confidence, surrender, self-doubt",
+      "reversed_meaning": "Defense collapses inward: confidence thins, and pressure feels overwhelming."
+    },
+    {
+      "name": "Eight of Wands",
+      "number": "8",
+      "correspondences": "Planet: Mercury • Zodiac: Sagittarius",
+      "keywords": "Swift action, speed, movement, rapid changes",
+      "meaning": "Acceleration: events move quickly, messages fly, and momentum compresses time.",
+      "reversed_keywords": "Delays, frustration, stalling, slowdown",
+      "reversed_meaning": "Acceleration breaks: motion stalls, timing drags, or signals arrive too late."
+    },
+    {
+      "name": "Nine of Wands",
+      "number": "9",
+      "correspondences": "Planet: Moon • Zodiac: Sagittarius",
+      "keywords": "Resilience, persistence, boundaries, last stand",
+      "meaning": "Endurance under strain: weariness persists, but resolve holds the line.",
+      "reversed_keywords": "Exhaustion, burnout, giving up, lack of stamina",
+      "reversed_meaning": "Endurance is depleted: vigilance turns into burnout, and boundaries weaken."
+    },
+    {
+      "name": "Ten of Wands",
+      "number": "10",
+      "correspondences": "Planet: Saturn • Zodiac: Sagittarius",
+      "keywords": "Burden, responsibility, hard work, overwhelm",
+      "meaning": "Overload: responsibility piles up until momentum becomes weight.",
+      "reversed_keywords": "Release, lightening the load, new perspective, progress",
+      "reversed_meaning": "Overload loosens: pressure shifts, burdens drop, or priorities reconfigure."
+    },
+    {
+      "name": "Page of Wands",
+      "number": "11",
+      "correspondences": "",
+      "keywords": "Enthusiasm, exploration, discovery, creative messenger",
+      "meaning": "A curious ignition: playful ambition, new ideas, and exploratory energy arrive.",
+      "reversed_keywords": "Lack of direction, procrastination, lack of enthusiasm, disorganization",
+      "reversed_meaning": "The ignition sputters: enthusiasm scatters into hesitation, delay, or disarray."
+    },
+    {
+      "name": "Knight of Wands",
+      "number": "12",
+      "correspondences": "",
+      "keywords": "Adventure, impulsiveness, energy, passion",
+      "meaning": "A charge forward: passion becomes motion, driven by urgency and appetite for risk.",
+      "reversed_keywords": "Hastiness, recklessness, impulsiveness, burning out",
+      "reversed_meaning": "The charge misfires: speed becomes recklessness, and energy burns unevenly."
+    },
+    {
+      "name": "Queen of Wands",
+      "number": "13",
+      "correspondences": "",
+      "keywords": "Confidence, determination, vibrancy, independence",
+      "meaning": "Warm command: confidence, charisma, and creative authority fill the room.",
+      "reversed_keywords": "Selfishness, jealousy, insecurity, lack of confidence",
+      "reversed_meaning": "Warmth turns sharp: confidence falters into insecurity, jealousy, or guardedness."
+    },
+    {
+      "name": "King of Wands",
+      "number": "14",
+      "correspondences": "",
+      "keywords": "Leadership, vision, entrepreneurship, bold action",
+      "meaning": "Vision in leadership: drive organizes into direction, influence, and decisive initiative.",
+      "reversed_keywords": "Impulsiveness, recklessness, lack of direction, overbearing",
+      "reversed_meaning": "Leadership distorts: vision blurs into domination, impulsiveness, or scattered direction."
+    }
+  ],
+  "cups": [
+    {
+      "name": "Ace of Cups",
+      "number": "1",
+      "correspondences": "",
+      "keywords": "New love, emotional fulfillment, joy, compassion",
+      "meaning": "An opening in the heart: emotional current rises, inviting connection and renewal.",
+      "reversed_keywords": "Emotional block, emptiness, loneliness, rejection",
+      "reversed_meaning": "The opening narrows: emotion is blocked, withheld, or experienced as absence."
+    },
+    {
+      "name": "Two of Cups",
+      "number": "2",
+      "correspondences": "Planet: Venus • Zodiac: Cancer",
+      "keywords": "Partnership, connection, unity, mutual attraction",
+      "meaning": "Mutuality forms: connection stabilizes through reciprocity, trust, and shared regard.",
+      "reversed_keywords": "Imbalance, broken communication, tension, disharmony",
+      "reversed_meaning": "Mutuality strains: imbalance, mistrust, or miscommunication interrupts the bond."
+    },
+    {
+      "name": "Three of Cups",
+      "number": "3",
+      "correspondences": "Planet: Mercury • Zodiac: Cancer",
+      "keywords": "Friendship, celebration, community, collaboration",
+      "meaning": "Shared joy: community energy gathers through friendship, support, and celebration.",
+      "reversed_keywords": "Overindulgence, gossip, loneliness, isolation",
+      "reversed_meaning": "Community frays: support becomes messy, exclusionary, or isolating."
+    },
+    {
+      "name": "Four of Cups",
+      "number": "4",
+      "correspondences": "Planet: Moon • Zodiac: Cancer",
+      "keywords": "Apathy, contemplation, reevaluation, discontent",
+      "meaning": "Emotional pause: dissatisfaction, distance, or numbness interrupts engagement with what’s offered.",
+      "reversed_keywords": "Apathy, contemplation, reevaluation, discontent",
+      "reversed_meaning": "The pause shifts: attention begins to return, and emotional openness becomes possible again."
+    },
+    {
+      "name": "Five of Cups",
+      "number": "5",
+      "correspondences": "Planet: Mars • Zodiac: Scorpio",
+      "keywords": "Loss, grief, disappointment, regret",
+      "meaning": "Grief foregrounds: attention fixes on what’s missing, even while something remains.",
+      "reversed_keywords": "Moving on, acceptance, forgiveness, letting go",
+      "reversed_meaning": "Grief loosens: acceptance grows, and attention turns toward what can continue."
+    },
+    {
+      "name": "Six of Cups",
+      "number": "6",
+      "correspondences": "Planet: Sun • Zodiac: Scorpio",
+      "keywords": "Nostalgia, memories, childhood, innocence",
+      "meaning": "The past returns softly: memory, innocence, and familiar comfort shape the present.",
+      "reversed_keywords": "Living in the past, stagnation, childhood issues, unrealistic expectations",
+      "reversed_meaning": "The past grips too tightly: nostalgia becomes stagnation, or old patterns resurface unresolved."
+    },
+    {
+      "name": "Seven of Cups",
+      "number": "7",
+      "correspondences": "Planet: Venus • Zodiac: Scorpio",
+      "keywords": "Choices, illusion, fantasy, wishful thinking",
+      "meaning": "Options multiply: desire and imagination blur reality, making choice feel slippery.",
+      "reversed_keywords": "Clarity, reality, making a decision, avoiding fantasy",
+      "reversed_meaning": "Options consolidate: clarity cuts through illusion, and a real choice emerges."
+    },
+    {
+      "name": "Eight of Cups",
+      "number": "8",
+      "correspondences": "Planet: Saturn • Zodiac: Pisces",
+      "keywords": "Walking away, transition, seeking deeper meaning",
+      "meaning": "A turning away: emotional fulfillment is questioned, and departure becomes the motion of meaning.",
+      "reversed_keywords": "Avoidance, fear of change, fear of the unknown, hesitation",
+      "reversed_meaning": "Departure stalls: attachment, fear, or uncertainty keeps the cycle in place."
+    },
+    {
+      "name": "Nine of Cups",
+      "number": "9",
+      "correspondences": "Planet: Jupiter • Zodiac: Pisces",
+      "keywords": "Wish fulfillment, satisfaction, contentment, emotional happiness",
+      "meaning": "Satisfaction gathers: desire is met, and contentment becomes visible.",
+      "reversed_keywords": "Overindulgence, dissatisfaction, materialism, emptiness",
+      "reversed_meaning": "Satisfaction is hollowed: indulgence replaces contentment, or fulfillment feels incomplete."
+    },
+    {
+      "name": "Ten of Cups",
+      "number": "10",
+      "correspondences": "Planet: Mars • Zodiac: Pisces",
+      "keywords": "Harmony, happy family, emotional fulfillment, lasting happiness",
+      "meaning": "Emotional wholeness: harmony expands through shared bonds, belonging, and stability.",
+      "reversed_keywords": "Broken family, disharmony, instability, loneliness",
+      "reversed_meaning": "Wholeness fractures: connection destabilizes, and harmony feels distant or interrupted."
+    },
+    {
+      "name": "Page of Cups",
+      "number": "11",
+      "correspondences": "",
+      "keywords": "Creative, intuitive, sensitive, messenger of emotions",
+      "meaning": "A tender signal: intuition, vulnerability, and emotional curiosity rise to the surface.",
+      "reversed_keywords": "Emotional immaturity, sensitivity, fear of emotional depth",
+      "reversed_meaning": "The signal distorts: sensitivity becomes volatility, avoidance, or fear of depth."
+    },
+    {
+      "name": "Knight of Cups",
+      "number": "12",
+      "correspondences": "",
+      "keywords": "Romantic, idealistic, charming, following the heart",
+      "meaning": "An emotional pursuit: idealism and longing move toward connection, beauty, or devotion.",
+      "reversed_keywords": "Moodiness, lack of emotional control, emotional instability",
+      "reversed_meaning": "The pursuit destabilizes: emotion swings, idealism collapses, or intent becomes inconsistent."
+    },
+    {
+      "name": "Queen of Cups",
+      "number": "13",
+      "correspondences": "",
+      "keywords": "Compassionate, intuitive, caring, emotionally mature",
+      "meaning": "Emotional attunement: compassion and intuition hold space without losing steadiness.",
+      "reversed_keywords": "Manipulation, lack of compassion, emotional burnout, emotional immaturity",
+      "reversed_meaning": "Attunement overloads: compassion drains into burnout, or emotion is used defensively."
+    },
+    {
+      "name": "King of Cups",
+      "number": "14",
+      "correspondences": "",
+      "keywords": "Emotionally balanced, compassionate, diplomatic, wise counselor",
+      "meaning": "Emotional command: feeling is contained with wisdom, diplomacy, and calm authority.",
+      "reversed_keywords": "Coldness, emotional suppression, emotional imbalance, manipulation",
+      "reversed_meaning": "Command distorts: emotion is suppressed, weaponized, or swings out of balance."
+    }
+  ],
+  "swords": [
+    {
+      "name": "Ace of Swords",
+      "number": "1",
+      "correspondences": "",
+      "keywords": "Mental clarity, breakthrough, truth, new ideas",
+      "meaning": "A clean cut of clarity: truth surfaces, and perception sharpens into a decisive edge.",
+      "reversed_keywords": "Confusion, deception, miscommunication, mental block",
+      "reversed_meaning": "Clarity fractures: confusion, distortion, or miscommunication blunts the edge."
+    },
+    {
+      "name": "Two of Swords",
+      "number": "2",
+      "correspondences": "Planet: Moon • Zodiac: Libra",
+      "keywords": "Difficult decision, stalemate, avoidance, crossroads",
+      "meaning": "A stalemate: opposing truths hold equal weight, and decision is suspended.",
+      "reversed_keywords": "Self-deception, internal conflict, making the wrong choice",
+      "reversed_meaning": "The stalemate cracks: conflict intensifies, or a choice is made under distortion."
+    },
+    {
+      "name": "Three of Swords",
+      "number": "3",
+      "correspondences": "Planet: Saturn • Zodiac: Libra",
+      "keywords": "Heartbreak, sorrow, grief, emotional pain",
+      "meaning": "A rupture of the heart: grief and pain become undeniable and visible.",
+      "reversed_keywords": "Recovery, forgiveness, moving on, healing",
+      "reversed_meaning": "The rupture begins to mend: grief softens, and recovery becomes active."
+    },
+    {
+      "name": "Four of Swords",
+      "number": "4",
+      "correspondences": "Planet: Jupiter • Zodiac: Libra",
+      "keywords": "Rest, recovery, contemplation, pause",
+      "meaning": "Mental ceasefire: rest, quiet, and recovery interrupt the ongoing strain.",
+      "reversed_keywords": "Burnout, restlessness, overwork, mental exhaustion",
+      "reversed_meaning": "Ceasefire fails: restlessness and burnout keep the mind in motion."
+    },
+    {
+      "name": "Five of Swords",
+      "number": "5",
+      "correspondences": "Planet: Venus • Zodiac: Aquarius",
+      "keywords": "Conflict, defeat, winning at all costs, hollow victory",
+      "meaning": "Conflict turns costly: the outcome is edged with damage, spite, or hollow victory.",
+      "reversed_keywords": "Reconciliation, making amends, avoiding conflict, peaceful resolution",
+      "reversed_meaning": "Conflict cools: repair, resolution, or disengagement shifts the dynamic."
+    },
+    {
+      "name": "Six of Swords",
+      "number": "6",
+      "correspondences": "Planet: Mercury • Zodiac: Aquarius",
+      "keywords": "Transition, moving on, leaving troubles, calmer waters",
+      "meaning": "A passage forward: turbulence is left behind, and calmer terrain approaches slowly.",
+      "reversed_keywords": "Stagnation, resistance to change, emotional baggage, unresolved issues",
+      "reversed_meaning": "The passage stalls: unresolved weight or resistance keeps the crossing incomplete."
+    },
+    {
+      "name": "Seven of Swords",
+      "number": "7",
+      "correspondences": "Planet: Moon • Zodiac: Aquarius",
+      "keywords": "Deception, strategy, stealth, careful planning",
+      "meaning": "Hidden strategy: movement happens off-stage, shaped by secrecy, avoidance, or cunning.",
+      "reversed_keywords": "Honesty, clarity, avoiding deception, coming clean",
+      "reversed_meaning": "Secrecy breaks: truth surfaces, strategy is exposed, or concealment collapses."
+    },
+    {
+      "name": "Eight of Swords",
+      "number": "8",
+      "correspondences": "Planet: Jupiter • Zodiac: Gemini",
+      "keywords": "Restriction, imprisonment, self-imposed limitations",
+      "meaning": "Restriction closes in: perception narrows until limitation feels absolute.",
+      "reversed_keywords": "Self-freedom, breaking free, new perspective, breaking mental blocks",
+      "reversed_meaning": "Restriction loosens: perspective widens, and the bind becomes less convincing."
+    },
+    {
+      "name": "Nine of Swords",
+      "number": "9",
+      "correspondences": "Planet: Mars • Zodiac: Gemini",
+      "keywords": "Anxiety, worry, fear, nightmares, mental anguish",
+      "meaning": "Night mind: worry, fear, and mental anguish amplify in the dark hours.",
+      "reversed_keywords": "Overcoming fear, releasing worry, mental clarity, facing fears",
+      "reversed_meaning": "Night mind eases: fear releases, and clarity returns in small increments."
+    },
+    {
+      "name": "Ten of Swords",
+      "number": "10",
+      "correspondences": "Planet: Sun & Moon • Zodiac: Gemini",
+      "keywords": "Painful ending, betrayal, rock bottom, dramatic conclusion",
+      "meaning": "An ending lands hard: collapse, betrayal, or finality marks the conclusion of a cycle.",
+      "reversed_keywords": "Recovery, rebirth, new beginnings, healing",
+      "reversed_meaning": "The ending shifts: recovery begins, and rebirth rises from what concluded."
+    },
+    {
+      "name": "Page of Swords",
+      "number": "11",
+      "correspondences": "",
+      "keywords": "Curious, communicative, vigilant, truth-seeker",
+      "meaning": "Alert curiosity: questions sharpen, attention scans, and truth-seeking becomes active.",
+      "reversed_keywords": "Deception, dishonesty, lack of future clarity, manipulation",
+      "reversed_meaning": "Curiosity warps: information twists into dishonesty, manipulation, or confusion."
+    },
+    {
+      "name": "Knight of Swords",
+      "number": "12",
+      "correspondences": "",
+      "keywords": "Action, impulsiveness, driven, defending beliefs",
+      "meaning": "A headlong charge: conviction becomes speed, cutting through obstacles and nuance alike.",
+      "reversed_keywords": "Recklessness, impulsiveness, haste, burning out",
+      "reversed_meaning": "The charge destabilizes: haste turns reckless, and momentum burns out."
+    },
+    {
+      "name": "Queen of Swords",
+      "number": "13",
+      "correspondences": "",
+      "keywords": "Independent, perceptive, clear communicator, sharp wit",
+      "meaning": "Clear perception: truth is spoken cleanly, and boundaries are drawn with precision.",
+      "reversed_keywords": "Coldness, cruelty, bitterness, emotional detachment",
+      "reversed_meaning": "Clarity turns sharp: perception becomes bitterness, detachment, or cutting severity."
+    },
+    {
+      "name": "King of Swords",
+      "number": "14",
+      "correspondences": "",
+      "keywords": "Intellectual authority, truth, clear thinking, ethical power",
+      "meaning": "Mental authority: logic, ethics, and strategy organize into decisive governance.",
+      "reversed_keywords": "Manipulation, cruelty, coldness, unethical power",
+      "reversed_meaning": "Authority corrupts: intellect becomes coercion, cruelty, or unethical control."
+    }
+  ],
+  "pentacles": [
+    {
+      "name": "Ace of Pentacles",
+      "number": "1",
+      "correspondences": "",
+      "keywords": "New financial opportunity, prosperity, manifestation, abundance",
+      "meaning": "A tangible opening: a seed of prosperity appears in the material world.",
+      "reversed_keywords": "Lost opportunity, missed chance, financial setback, lack of planning",
+      "reversed_meaning": "The opening slips: opportunity is delayed, mishandled, or obscured by instability."
+    },
+    {
+      "name": "Two of Pentacles",
+      "number": "2",
+      "correspondences": "Planet: Jupiter • Zodiac: Capricorn",
+      "keywords": "Balance, adaptability, time management, juggling priorities",
+      "meaning": "A balancing act: priorities move in motion, requiring adaptability and rhythm.",
+      "reversed_keywords": "Overwhelm, disorganization, lack of priorities, financial instability",
+      "reversed_meaning": "The rhythm breaks: overwhelm, instability, or disorganization tips the balance."
+    },
+    {
+      "name": "Three of Pentacles",
+      "number": "3",
+      "correspondences": "Planet: Mars • Zodiac: Capricorn",
+      "keywords": "Teamwork, collaboration, learning, skill development",
+      "meaning": "Skill meets structure: collaboration, learning, and craft build something solid.",
+      "reversed_keywords": "Lack of teamwork, poor skills, knowledge, unproductive work",
+      "reversed_meaning": "Skill or teamwork falters: effort disperses, recognition is missing, or work becomes unproductive."
+    },
+    {
+      "name": "Four of Pentacles",
+      "number": "4",
+      "correspondences": "Planet: Sun • Zodiac: Capricorn",
+      "keywords": "Control, stability, security, possessiveness",
+      "meaning": "Security through holding: stability is maintained by control, caution, and containment.",
+      "reversed_keywords": "Financial loss, instability, lack of control, greed",
+      "reversed_meaning": "Holding loosens or hardens: stability shifts into loss, instability, or greed."
+    },
+    {
+      "name": "Five of Pentacles",
+      "number": "5",
+      "correspondences": "Planet: Mercury • Zodiac: Taurus",
+      "keywords": "Financial loss, poverty, insecurity, hardship",
+      "meaning": "Material hardship: scarcity, exclusion, or insecurity becomes immediate and cold.",
+      "reversed_keywords": "Recovery, financial improvement, charity, community support",
+      "reversed_meaning": "Hardship begins to lift: recovery emerges through support, resources, or shared help."
+    },
+    {
+      "name": "Six of Pentacles",
+      "number": "6",
+      "correspondences": "Planet: Moon • Zodiac: Taurus",
+      "keywords": "Generosity, charity, giving/receiving, sharing wealth",
+      "meaning": "Exchange in balance: giving and receiving shape power, care, and material flow.",
+      "reversed_keywords": "Strings attached, stinginess, power imbalance, exploitation",
+      "reversed_meaning": "Exchange distorts: generosity becomes leverage, imbalance, or withholding."
+    },
+    {
+      "name": "Seven of Pentacles",
+      "number": "7",
+      "correspondences": "Planet: Saturn • Zodiac: Taurus",
+      "keywords": "Assessment, patience, long-term view, progress evaluation",
+      "meaning": "A pause to evaluate: growth is underway, but results are still forming over time.",
+      "reversed_keywords": "Impatience, lack of reward, delayed gratification, frustration",
+      "reversed_meaning": "Evaluation turns sour: impatience rises, progress feels unrewarded, or timing frustrates."
+    },
+    {
+      "name": "Eight of Pentacles",
+      "number": "8",
+      "correspondences": "Planet: Sun • Zodiac: Virgo",
+      "keywords": "Mastery, skill development, diligence, craftsmanship",
+      "meaning": "Practice becomes power: repetition, diligence, and craft build competence.",
+      "reversed_keywords": "Lack of mastery, perfectionism, lack of skill, sloppiness",
+      "reversed_meaning": "Practice warps: effort becomes sloppy, stalled, or trapped in perfectionism."
+    },
+    {
+      "name": "Nine of Pentacles",
+      "number": "9",
+      "correspondences": "Planet: Venus • Zodiac: Virgo",
+      "keywords": "Abundance, luxury, self-sufficiency, material success",
+      "meaning": "Self-sufficiency blossoms: comfort and independence reflect accumulated effort.",
+      "reversed_keywords": "Self-indulgence, greed, materialism, financial instability",
+      "reversed_meaning": "Abundance destabilizes: luxury turns excessive, or security feels less stable than it appears."
+    },
+    {
+      "name": "Ten of Pentacles",
+      "number": "10",
+      "correspondences": "Planet: Mercury • Zodiac: Virgo",
+      "keywords": "Wealth, legacy, inheritance, family, long-term security",
+      "meaning": "Legacy and structure: long-term security gathers through family systems and material continuity.",
+      "reversed_keywords": "Financial instability, family conflict, lack of legacy, broken inheritance",
+      "reversed_meaning": "Legacy fractures: conflict, instability, or discontinuity interrupts the long-term structure."
+    },
+    {
+      "name": "Page of Pentacles",
+      "number": "11",
+      "correspondences": "",
+      "keywords": "Manifestation, opportunity, studious, new venture",
+      "meaning": "A practical beginning: learning, planning, and new ventures take root in reality.",
+      "reversed_keywords": "Lack of progress, lack of effort, lack of learning, financial loss",
+      "reversed_meaning": "The beginning stalls: effort thins, focus drifts, or progress becomes inconsistent."
+    },
+    {
+      "name": "Knight of Pentacles",
+      "number": "12",
+      "correspondences": "",
+      "keywords": "Hardworking, responsible, routine, methodical",
+      "meaning": "Steady momentum: routine and responsibility carry progress one step at a time.",
+      "reversed_keywords": "Laziness, greed, financial waste, recklessness",
+      "reversed_meaning": "Steadiness breaks: routine collapses into stagnation, waste, or reckless shortcuts."
+    },
+    {
+      "name": "Queen of Pentacles",
+      "number": "13",
+      "correspondences": "",
+      "keywords": "Practical, nurturing, providing, down-to-earth",
+      "meaning": "Grounded care: practical support and resourcefulness create comfort and stability.",
+      "reversed_keywords": "Selfishness, greed, materialism, financial instability",
+      "reversed_meaning": "Grounded care distorts: generosity drains, security wobbles, or resources are used defensively."
+    },
+    {
+      "name": "King of Pentacles",
+      "number": "14",
+      "correspondences": "",
+      "keywords": "Abundance, success, leadership, security, business mastery",
+      "meaning": "Material command: stability, leadership, and competence organize into sustained success.",
+      "reversed_keywords": "Greed, materialism, financial instability, lack of leadership",
+      "reversed_meaning": "Command distorts: security becomes greed, instability, or leadership without integrity."
+    }
+  ]
+}
